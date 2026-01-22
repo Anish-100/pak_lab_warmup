@@ -41,7 +41,7 @@ Ensure the notes are similar to the examples, they should all “feel” like th
 """
 client = genai.Client()
 print(f'Started')
-for i in range(10):
+for i in range(1,11):
       print(f'Iteration {i}')
       response = client.models.generate_content(
       model="gemini-3-flash-preview",
@@ -68,12 +68,14 @@ for i in range(10):
       thinking_config=types.ThinkingConfig(
             include_thoughts=True))
       )
-      number = '1-500'
+      number = 'The final attempt'
       with open (f'Warmup/data/Generated Patient Notes/Attempt {number}','a') as attempt_file:
+            attempt_file.write('BREAK\n')
             attempt_file.write(response.text)
             print(response.text)
 
       with open (f'Warmup/data/Generated Patient Notes/Attempt {number} Thoughts','a') as file:
+            file.write('BREAK\n')
             for part in response.candidates[0].content.parts:
                   if not part.text:
                         continue
