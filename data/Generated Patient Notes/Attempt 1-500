@@ -1,0 +1,341 @@
+As a Clinical Documentation Expert, I have generated the first batch of synthetic admission notes following the four "Gold Standard" styles provided. Each note reflects the specific structural quirks, syntax, and clinical depth of the respective original author while varying patient demographics and infectious disease scenarios.
+
+########
+
+ADMISSION NOTE
+PATIENT: Martha Elderberry
+MRN: 82736451
+DATE OF ADMISSION: 11/14/3052
+TIME: 03:15 AM
+ADMITTING ATTENDING: Sarah Realname, MD
+HOSPITAL FLOOR/LOCATION: GERI04
+PCP: James Oldman, MD
+CODE STATUS: DNR/DNI (Confirmed)
+
+Chief Complaint/Reason for Admission: Altered mental status, fever.
+
+History of Present Illness: Martha Elderberry is an 88 y.o. female resident of Shady Oaks SNF with PMH significant for vascular dementia and chronic indwelling foley who presents with acute onset of confusion and lethargy.
+
+Per SNF report, patient was in her usual state of health until yesterday morning when she became increasingly somnolent and refused meals. Her baseline is alert and oriented to self/place, but she is now only responsive to painful stimuli. SNF noted foul-smelling urine and a temp of 102.1 F. She was started on PO nitrofurantoin 2 days ago for suspected UTI but has not improved. She has a history of ESBL E. coli in 3051 requiring IV carbapenems.
+
+In the ED, she was tachycardic to 110s, BP 98/54. Received 2L NS and was started on IV Meropenem given her history of resistant organisms. No cough, no diarrhea.
+
+ED Course:
+Initial Vitals: 38.9 °C (102.0 °F) | HR 112 | BP 96/52 | RR 22 | SpO2 94 % on RA.
+Meds: 2L NS, IV Meropenem 1g.
+Imaging: CXR clear, no acute process.
+
+Review of Systems: Unable to obtain due to mental status.
+
+Past Medical/Surgical History:
+Diagnosis
+• Vascular Dementia
+• Chronic Kidney Disease Stage III
+• Hypertension
+• Atrial Fibrillation (on apixaban)
+• Chronic indwelling foley (for neurogenic bladder)
+• History of ESBL UTI
+
+Home Medications:
+• Apixaban 2.5mg BID
+• Donepezil 10mg Daily
+• Lisinopril 10mg Daily
+• Nitrofurantoin 100mg BID (started 2 days ago)
+
+Allergies: Penicillin (Rash).
+
+Social History:
+Lives in SNF. Formerly a schoolteacher. Non-smoker.
+
+Physical Exam on admission:
+Vitals: Tcurrent 37.8 °C (100.0 °F) | HR 94 | BP 105/62 | RR 18 | SpO2 96 % on 2L NC.
+Gen: Elderly female, somnolent, rousable to voice but non-verbal.
+HEENT: Dry mucous membranes.
+CV: Tachycardic, irregular rhythm. No murmurs.
+Pulm: Lungs clear to auscultation bilaterally.
+Abd: Soft, non-distended. Chronic foley in place with cloudy, sediment-heavy urine.
+Ext: No edema. Cool peripheries.
+Neuro: No focal deficits noted. Moves all four extremities.
+
+DATA/RESULTS:
+WBC 18.4 (85% neutrophils), Hgb 10.2, Plt 145.
+Cr 1.6 (baseline 1.1). Lactate 3.1.
+UA: Large LE, Nitrite positive, >100 WBC, many bacteria.
+
+Assessment and Plan: 88 y.o. female from SNF with dementia and chronic foley, presenting with sepsis likely 2/2 UTI/Urosepsis.
+
+#Sepsis/UTI:
+Highly suspicious for urosepsis given chronic foley and positive UA. Risk for MDRO given recent ESBL history.
+- Continue Meropenem 1g IV q12h (adjusted for renal function).
+- Monitor urine and blood cultures.
+- Strict I/O monitoring.
+- Continue IV fluids at 75cc/hr.
+
+#Altered Mental Status:
+Likely metabolic/infectious encephalopathy.
+- Monitor neuro status q4h.
+- Avoid sedative medications.
+
+#Atrial Fibrillation:
+Irregularly irregular.
+- Hold apixaban currently given acute sepsis/risk of bleed if clinical status declines.
+
+Hospital Bundle
+Diet: NPO (aspiration risk)
+DVT Prophylaxis: SQ Heparin
+Telemetry: Yes
+Dispo: SNF upon stabilization
+
+CODE: DNR/DNI
+CONTACT: Jane Elderberry (Daughter/HCP) 555-010-2222
+
+_____________________________
+Theodore Exemplified, MD
+Internal Medicine PGY-1
+Pager # 12345
+
+########
+
+6/12/3052
+4:45 PM
+
+Patient: Marcus Speed
+DOB: 02/14/3025
+PCP: Unknown Unknown, MD
+
+CHIEF COMPLAINT: Right arm pain and swelling
+
+HISTORY OF PRESENT ILLNESS:
+Marcus Speed is a 27 y.o. male with history of IVDU (fentanyl) presents with severe pain, redness, and swelling of the right antecubital fossa for 3 days.
+Patient states he "missed a vein" 4 days ago while injecting. 
+Since then, area has become increasingly red, warm, and began draining "green stuff" today.
+Patient also reports chills and "the shakes."
+Denies shortness of breath or chest pain.
+Denies history of endocarditis. 
+
+MEDICAL & SURGICAL HX:
+Past Medical History:
+• Opioid Use Disorder (IV)
+• Hepatitis C (untreated)
+Past Surgical History:
+• None
+
+FAMILY HX:
+Non-contributory.
+
+SOCIAL HX:
+Tobacco: Current smoker (1 PPD).
+Alcohol: Occasional.
+Drugs: IV Fentanyl daily. Homeless, currently staying in shelter.
+
+REVIEW OF SYSTEMS:
+Positive for chills, skin redness, and localized pain. Negative for cough, SOB, and abdominal pain.
+
+PRIOR TO ADMISSION MEDICATIONS:
+None.
+
+PHYSICAL EXAMINATION:
+Temperature: 38.4 °C (101.1 °F)
+Heart Rate: 108
+Respiratory Rate: 18
+BP: 110/64
+SpO2: 98% on RA
+General Appearance: Diaphoretic, appears older than stated age, uncomfortable.
+HEENT: Poor dentition. No oropharyngeal lesions.
+Lungs: Clear.
+Heart: Regular tachycardia. New 2/6 systolic murmur heard at lower left sternal border.
+Abdomen: Soft, non-tender.
+Skin: 5cm x 4cm area of erythema, fluctuance, and purulent drainage at right antecubital fossa. Significant tracking noted up the bicep.
+Neuro: Awake and alert.
+
+Recent lab:
+CBC-
+WBC 22.5 06/12/3052
+HGB 11.2 06/12/3052
+PLT 410 06/12/3052
+
+BMP-
+NA 136 06/12/3052
+K 3.8 06/12/3052
+GLU 105 06/12/3052
+CRE 0.88 06/12/3052
+
+EKG: Sinus tachycardia.
+
+IMPRESSION/PLAN:
+Right arm abscess/cellulitis iso IVDU
+Concern for infectious endocarditis given new murmur and fever.
+- Start IV Vancomycin.
+- Bedside I&D performed in ED, cultures sent.
+- Obtain 3 sets of blood cultures.
+- Consult ID.
+- TTE ordered.
+- Social Work to evaluate for rehab/housing.
+
+DVT Prophylaxis: SQ LMW Heparin
+Activity: As tolerated
+Diet: Regular
+Code Status: Full
+Level of Care: Inpatient
+
+"A portion of this record may have been created with voice recognization software. Occasionally wrong word or sound-a-like substitutions may have occurred due to limitation in software recognition. Read the chart carefully and recognize, using context, where substitutions have occurred."
+
+Patrick Whoisthis, MD
+Pager# 54321
+
+########
+
+NIGHT TEACH NOTE
+
+PATIENT: Ahmed Al-Safar
+MRN: 99128834
+DATE OF ADMISSION: 12/20/3052
+ADMITTING INTERN: Random Exemplified, MD
+LOCATION: EXAMP03
+SERVICE: Example A
+
+REASON FOR ADMISSION: Hemoptysis and weight loss.
+
+BRIEF HPI: Please refer to the intern admission note for full details; I agree with those findings and would emphasize the following:
+
+Ahmed Al-Safar is a 34 y.o. male, recent immigrant from East Africa (arrived 3 months ago), who presents with 2 weeks of productive cough, intermittent hemoptysis (teaspoon sized), and night sweats. He also reports an unintentional 15-lb weight loss over the last 2 months. 
+
+In the ED, he was afebrile and hemodynamically stable. CXR showed a cavitary lesion in the right upper lobe. He has no known history of TB or prior positive PPD. He works as a day laborer in construction.
+
+IMPRESSION AND PLAN:
+#Hemoptysis and cavitary lung lesion:
+Highly concerning for pulmonary Tuberculosis given the RUL cavitary lesion, weight loss, night sweats, and recent arrival from an endemic area.
+- Patient has been placed in a negative pressure room with airborne precautions.
+- Sputum for AFB smear and culture x3 (induced if necessary).
+- Sputum GeneXpert ordered.
+- Quantiferon Gold sent.
+- HIV screen (pending).
+- Given stability, holding empiric RIPE therapy until AFB results return but will reassess if he becomes febrile or hemoptysis worsens.
+
+#Nutrition:
+- Weight loss is significant. Start high calorie, high protein diet.
+
+Remainder of plan as per intern admission note.
+
+----------------------------------------
+Michael Fake Sample, MD
+PGY-4, Example Department of Medicine
+
+########
+
+HOSPITAL MEDICINE GROUP
+Medicine Attending Admission History & Physical
+
+Patient Name: Silas Thorne
+DOB: 05/05/3002
+MRN: 77665544
+PCP: Unknown Unknown, MD
+
+Date of Admission: 01/15/3053
+Location: EXAMP05B
+Attending Provider: Jessica Unreal Identity, MD
+
+History provided by: patient
+
+Chief Complaint/Reason for Admission: Fever, headache, neck stiffness
+
+History of Present Illness:
+Silas Thorne is a 51 y/o M with PMH of HIV (last CD4 150, non-compliant with ART), chronic Hep B, and tobacco use who presents with three days of worsening headache and photophobia. He reports that the headache is "the worst of his life" and is localized to the frontal region. He developed a fever of 102.5 F this morning and noted he couldn't touch his chin to his chest. No recent travel. No sick contacts. He has not been taking his Biktarvy for at least 6 months due to loss of insurance. 
+
+ED Course:
+Pt's VS: Febrile to 103.1 F; HR 110; BP 124/82. 
+Head CT was negative for any mass effect or hemorrhage. 
+Lumbar puncture was performed in the ED: Opening pressure elevated at 28 cm H2O. CSF appeared clear.
+Labs notable for WBC 3.2 (leukopenia).
+Started on IV Vancomycin, Ceftriaxone, and Ampicillin + Acyclovir.
+
+Medical History:
+Past Medical History:
+• HIV (Human Immunodeficiency Virus) - Dx 3040
+• Chronic Hepatitis B
+• Tobacco Use Disorder
+
+Past Surgical History:
+• Cholecystectomy
+
+Social History:
+• Smoking: 1/2 PPD.
+• Alcohol: Rare.
+• Housing: Lives in an apartment.
+
+Medications Prior to Admission:
+BIKTARVY 50-200-25 MG TABLET
+Sig: 1 tablet by mouth daily.
+Note (1/15/3053): METAL Med Transfer Process - Patient reports non-compliance.
+
+Review of Systems:
+Positive for fever, headache, photophobia, neck stiffness. Negative for focal weakness, seizures, or rash.
+
+Physical Exam:
+Vital Signs:
+Temp: 38.6 °C (101.5 °F)
+HR: 104
+RR: 20
+BP: 122/76
+SpO2: 98% (Room air)
+
+Gen: Appears ill, lying in dark room with eyes closed. 
+HEENT: No thrush. Neck with significant nuchal rigidity. 
+CVS: RRR, no murmurs.
+Pulm: Clear to auscultation.
+Neuro: A&Ox3. CN II-XII intact. Positive Brudzinski sign. No focal motor or sensory deficits.
+
+Data/Results:
+Labs: WBC 3.2, Hgb 11.4, Plt 201.
+BMP: Na 132, K 4.0, Cr 0.9.
+CSF: WBC 45 (70% Lymphs), Protein 85, Glucose 35. 
+India Ink: Positive for encapsulated yeast.
+Cryptococcal Antigen: Pending.
+
+ASSESSMENT / PLAN:
+51 y/o M with HIV (CD4 150, non-compliant) presents with fever, headache, and nuchal rigidity. CSF findings and India ink highly suggestive of Cryptococcal Meningitis.
+
+* Cryptococcal Meningitis
+Diagnosis:
+- India ink positive.
+- Elevated opening pressure (28).
+- CSF fungal culture pending.
+- COVID-19 screening below:
+
+Current Testing Criteria for COVID-19 for Infectious Diseases Evaluation (as of 1/15)
+Among patients with a respiratory viral syndrome and no clear alternative etiology...
+1. Fever ____X___________
+2. Cough _______________
+3. Shortness of Breath _______________
+ASSESSMENT: Patient does NOT meet respiratory criteria, but immunocompromised status warrants caution.
+
+PLAN:
+- Induction therapy with Liposomal Amphotericin B and Flucytosine.
+- Infectious Diseases consulted.
+- Serial LPs for pressure management if headache worsens.
+- Hold ART until at least 2 weeks of antifungal therapy to avoid IRIS.
+- Prophylactic Fluconazole later in course.
+
+* HIV/AIDS
+- CD4/Viral load sent.
+- Evaluation for other OIs given low CD4 (MAC, PCP).
+
+* Chronic Hepatitis B
+- Continue to monitor LFTs.
+
+# Hospital Issues:
+- Diet: Regular
+- Access: PIV
+- Monitoring: Neuro checks q4h
+- IVFs: NS at 100cc/hr
+- Prophylaxis: DVT Lovenox
+- Code: Full Code
+
+----------------------------------
+Andrew Notadoctor, MD
+Hospital Medicine Group
+p12345
+January 15, 3053
+4:15 PM
+
+########
