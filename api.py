@@ -1,5 +1,6 @@
 from dotenv import load_dotenv
 import errors
+import random
 import time
 from google import genai
 from google.genai import types
@@ -70,12 +71,12 @@ for i in range(1,11):
       )
       number = 'The final attempt'
       with open (f'Warmup/data/Generated Patient Notes/Attempt {number}','a') as attempt_file:
-            attempt_file.write('BREAK\n')
+            attempt_file.write('BREAK!!\n')
             attempt_file.write(response.text)
             print(response.text)
 
       with open (f'Warmup/data/Generated Patient Notes/Attempt {number} Thoughts','a') as file:
-            file.write('BREAK\n')
+            file.write('BREAK!!\n')
             for part in response.candidates[0].content.parts:
                   if not part.text:
                         continue
@@ -87,7 +88,9 @@ for i in range(1,11):
                         file.write("Answer:\n")
                         file.write(part.text)
                         file.write("\n")
-      time.sleep(15)
+      time_list = [15,16,25,30,42,37,50,38,21,27,67,32]
+      choice = random.choice(time_list)
+      time.sleep(choice)
       print(f'Ended iteration {i}')
 
 
