@@ -42,7 +42,7 @@ Ensure the notes are similar to the examples, they should all “feel” like th
 """
 client = genai.Client()
 print(f'Started')
-for i in range(1,11):
+for i in range(3,11):
       print(f'Iteration {i}')
       response = client.models.generate_content(
       model="gemini-3-flash-preview",
