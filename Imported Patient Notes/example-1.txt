@@ -1,0 +1,62 @@
+NIGHT TEACH NOTE
+
+
+
+PATIENT: John Doe Example
+
+MRN: 12345678
+
+DATE OF ADMISSION: 09/10/3050
+
+ADMITTING INTERN: Random Exemplified, MD
+
+LOCATION: EXAMP02
+
+SERVICE: Example C
+
+
+
+REASON FOR ADMISSSION: Dyspnea and cough
+
+
+
+BRIEF HPI: Please refer to the intern admission note for full details; I agree with those findings and would emphasize the following:?
+
+
+
+John Doe Example is a 49 y.o. male with no significant PMH who presents with six days of non-productive cough and dyspnea. His symptoms started on 9/4 with sore throat, low grade fever, and mild chest pain for which he was seen by his PCP, diagnosed with costochondritis and sent home with supportive care. Over the next few days he developed progressive dyspnea with exertion and subjective fevers, which caused him to present to the ED. He has not travelled, but works at the airport as a baggage handler.
+
+
+
+In the ED, he was afebrile, normotensive, tachycardic, satting well on room air. Labs were significant for normal BMP, lactate 0.8, WBC 34, D-dimer 1120. He tested negative for flu and RSV. Given his dyspnea and elevated d-dimer, he had a CT PE that showed bilateral patchy opacities and GGOs c/f viral pneumonia. Given his elevated WBC count, he was treated with a 1x dose of IV ceftriaxone.
+
+
+
+His exam was significant for: well-appearing man, no dyspnea with speaking in complete sentences, decreased air movement at the bilateral lung bases, no wheezing. Slightly tachycardic, WWP.
+
+
+
+IMPRESSION AND PLAN:
+
+#Cough and dyspnea:
+
+I suspect that Mr. Example's non-productive cough and dyspnea with diffuse GGOs on chest CT are due to a viral pneumonia. Infectious Diseases was contacted and recommended sending Biofire panel, then possibly PCR for SARS-CoV-2 if Biofire is negative. He does have an elevated leukocytosis (34 w/a neutrophil predominance), which raised concern for bacterial pneumonia, for which he received CTX in the ED. Given that he is overall 
+
+well-appearing with no hypoxemia and symptoms/ would favor holding off on additional IV antibiotics for now.
+
+
+
+Remainder of plan as per intern admission note.
+
+
+
+----------------------------------------?
+
+Michael Fake Sample, MD
+
+PGY-4, Example Department of Medicine
+
+
+
+
+

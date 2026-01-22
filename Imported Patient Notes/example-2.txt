@@ -1,0 +1,139 @@
+EXAMPLE ADMISSION NOTE
+
+ PATIENT: John Doe Example
+MRN: 12345678
+ DATE OF ADMISSION: 09/10/3050
+TIME: 12:34 AM
+ADMITTING ATTENDING: Frank Notreal Name, MD
+ HOSPITAL FLOOR/LOCATION: EXAMP02
+PCP: Alice Fakename, MD
+CODE STATUS: Full Code (Presumed)
+
+Chief Complaint/Reason for Admission: cough, dyspnea
+
+History of Present Illness: John Doe Example is a 49 y.o. male with PMH only significant for recurrent tonsiliitis who presents with cough and dyspnea for 6 days.
+
+He reports that he is overall healthy, and does not take any medications. He first noticed that on 9/4 he had a sore throat and some chest pain (noted to have cough, slight fever to 99.1F, satting 98%) for which he was seen by his PCP. At that time, he was found to be strep negative and treated for costochondritis with ibuprofen + tylenol. He reported he improved afterwards, and then once again started to feel worse. He denies any fever at home (although has been taking OTC meds). He developed a cough, dyspnea, subjective fever that began 6 days ago. No history of asthma or lung disease. Regarding antibiotic exposure recently, he states he last was prescribed antibiotics for tonsillitis more than 1 year ago.
+
+
+Given the persistence of his symptoms (non-productive cough, worsening dyspnea), he decided to present to the ED. He also reports that he has had some dyspnea with exertion.
+
+ Travel/exposure history: He works at the airport as a baggage handler. Has not travelled internationally. He last travelled in mid-August to Fakeplace to Big Beach Resort with a friend (states his friend is doing well).
+ Healthcare exposure: None outside of visit to PCP office.
+Sick contacts: No sick contacts. Lives with his mother, father, sister, and daughter (17 years old). No one else is sick in his home.
+
+
+ED Course:
+ Initial Vitals: 37.2 °C (98.9 °F) | HR (!) 101 | BP 119/79 | RR 20
+| SpO2 99 % on room air. | Weight 68.3 kg (151 lb)
+Meds and 
+Fluids: Received 1L, ceftriaxone + azithromycin.
+ Flu/RSV negative.
+ PE-CT: bilateral patchy opacities, viral pneumonia vs. atelectasis
+
+On arrival to the floor, the patient is satting well on room air, not dyspneic with speech. Cites his primary symptoms are cough and fatigue. He denies any other symptoms: diarrhea, nausea/vomiting, headache, dysuria.
+
+ Review of Systems: Pertinent positive and negative as per HPI, otherwise a full review of systems was negative.
+
+Past Medical/Surgical History:
+ Patient Active Problem List
+ Diagnosis
+ • Family history of Down syndrome
+ • Family history of diabetes mellitus
+ • Recurrent tonsillitis
+ • Right upper quadrant pain
+ • Depression
+ • Headache
+ • Migraine
+ • Myopia
+ • Overweight
+ • Vitamin D deficiency
+ • Costochondritis
+ • Nasopharyngitis
+ • Cough
+
+ Home Medications:
+(confirmed with patient/family member)
+Medications Prior to Admission
+ None
+
+ Allergies: No Known Allergies.
+
+ Family History: Reviewed.
+
+ Social History:
+ Reviewed. Lives with mother, father, daughter, and sister.
+
+ Physical Exam on admission:
+ Vitals: Tcurrent 36.6 °C (97.8 °F) | HR (!) 104 | BP 119/69 | RR 16 | SpO2 99 % | on room air
+
+Gen: patient sitting up in bed, not in acute distress, on room air
+HEENT: normal oropharynx
+CV: S1+S2 appreciated, normal rate, rhythm regular, no rubs/gallops/murmurs
+Pulm: CTA-B, moving air 
+in both lung fields (slightly diminished at bases), no wheezes, no rhonchi or crackles appreciated.
+ Ext: Warm and well perfused. No pitted edema appreciated on legs. No unilateral swelling.
+Neuro: alert and oriented to conversation.
+ Skin: No obvious bruising, deformation appreciated.
++Tattoos.
+
+DATA/RESULTS
+
+Labs reviewed, and significant for:
+BMP: Na 141, K 4.1, Cl 103, CO2 24, Cr 0.73, AG 14, Lactate 0.8
+WBC 34 (neutrophilic 90%), Hgb 12.5, Plt 391.
+ D-dimer: 1120
+
+Micro:
+ 3/13: Negative for flu A/B; negative RSV.
+
+Radiology:
+ CT Chest Pulmonary Angiogram 09/10/3050
+Bilateral patchy and ground glass opacities involving the lower lobes which could reflect any combination of viral pneumonia and/or atelectasis.
+
+ CXR: 09/10/3050
+Hazy opacities in the left lower lobe, suggestive of pneumonia.
+
+ EKG:
+
+Normal rate (86), sinus rhythm, slightly delayed R wave progression, no ST-T changes
+
+ Last TTE:
+none
+
+Assessment and Plan: 49 y.o. male who works at airport with PMH only significant for recurrent tonsillitis, who presents with cough and dyspnea for 6 days, found to have bilateral patchy and GGOs involving lower lobes concerning for viral pneumonia, undergoing work-up with biofire panel and consideration of COVID19 if other testing negative.
+
+ #Cough, dyspnea
+Patient with unclear exposure (works in airport as baggage handler) - high traffic area. Exam and clinical findings suggestive of viral process - no known sick contacts. He does not have any clear consolidation on exam/chest CT to suggest bacterial source. GGOs indicative of likely viral source of respiratory symptoms. In addition, he had an elevated D-dimer (no asymmetric leg swelling, CT-PE negative). Concern for viral vs. Atypical pneumonia given lack of clear consolidation.
+Dx:
+- Flu neg/RSV neg. Biofire panel pending; if negative, will test for COVID-19.
+- 
+SpO2: 99-100%
+- F/u CRP, procalcitonin
+- CXR: largely clear, hazy opacity in LLL
+- CT Chest: Bilateral patchy and ground glass opacities involving the lower lobes which
+could reflect any combination of viral pneumonia and/or atelectasis
+Tx:
+- Discontinue IV CTX, if hemodynamically unstable would re-add on broad antibiotics
+- Continue azithromycin for anti-inflammatory and potential atypical pneumonia coverage
+- Supportive tx: Tylenol, PO hydration
+- Continue droplet/contact precautions
+- Appreciate Infectious Diseases team guidance
+
+Hospital Bundle
+ Diet: Diet Regular
+DVT Prophylaxis: SQ LMW Heparin
+Telemetry: None
+Dispo: pending workup/resolution of problems
+
+CODE: Full Code (Presumed)
+CONTACT/HCP: Extended Emergency Contact Information
+Primary Emergency Contact: Doe Example,Jane
+Address: 123 Example St, Examplecity, CA 90001 United States of America
+Home Phone: 123-456-7890
+Mobile Phone: 123-456-7890
+Relation: Wife
+_____________________________
+Theodore Exemplified, MD
+Internal Medicine PGY-1
+Pager # 12345

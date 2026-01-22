@@ -1,0 +1,197 @@
+Example Hospital Hospitalist Admission History and Physical Exam
+
+6/10/2095
+1:20 PM
+
+Patient: Joseph Shreddedname
+DOB:
+1/5/2050
+PCP:
+Ling Unknownname, MD
+
+CHIEF COMPLAINT: Palpitation
+
+HISTORY OF PRESENT ILLNESS:
+Joseph Shreddedname is a
+45 y.o. male with a history of paroxysmal A. fib on metoprolol and flecainide presented with palpitation.
+History was taken from patient at bedside and from chart review.
+Patient had gone to golf tournament
+the whole day yesterday and had multiple drinks at least 10 drinks and went to bed yesterday 2 AM however wake up 6 AM with palpitation.
+EMS called patient was brought into the ED patient was found to be A. fib with RVR received multiple doses of IV Lopressor 20 mg, followed by IV Cardizem bolus and referred for admission.
+Patient denies any chest pain shortness of breath
+When I saw the patient patient converted to sinus rhythm confirmed with EKG
+Patient wanted to go home.
+Cardiology consult was called and discussed.
+
+MEDICAL & SURGICAL HX:
+
+Past Medical History:
+Diagnosis Date
+• Atrial fibrillation
+
+• OSA (obstructive sleep apnea)
+
+Past Surgical History:
+Procedure Laterality Date
+• KNEE ARTHROSCOPY
+
+FAMILY HX:
+
+Family History
+Problem Relation Age of Onset
+• Hearing loss Father 60
+
+SOCIAL HX:
+Social History
+
+Socioeconomic History
+• Marital status: Married/Civil Union
+
+Spouse name: Not on file
+• Number of children: Not on file
+• Years of education: Not on file
+• Highest education level: Not on file
+Occupational History
+• Not on file
+Tobacco Use
+• Smoking status: Never Smoker
+• Smokeless tobacco: Never Used
+Substance and Sexual Activity
+• Alcohol use: Not on file
+• Drug use: Not on file
+• Sexual activity: Not on file
+Other Topics Concern
+• Not on file
+Social History Narrative
+• Not on file
+
+Social Determinants of Health
+
+REVIEW OF SYSTEMS:
+Constitutional: Negative for 
+chills and fever.
+Respiratory: Negative for cough, choking and shortness of breath.
+
+Cardiovascular: Negative for chest pain,and leg swelling.
+Gastrointestinal: Negative for abdominal pain, diarrhea and nausea.
+Genitourinary: Negative for difficulty urinating and dysuria.
+Skin: Negative.
+
+Neurological: Negative for dizziness and headaches.
+Psychiatric/Behavioral: Negative.
+All other systems reviewed and are negative.
+
+PRIOR TO ADMISSION MEDICATIONS:
+
+Prior to Admission medications
+
+Medication Sig
+aspirin 81 MG EC tablet 81 mg, Oral, Daily
+famotidine (PEPCID AC) 10 MG tablet 10 mg, Oral, Nightly PRN
+flecainide (TAMBOCOR) 100 MG tablet TAKE 1 TABLET BY MOUTH TWICE A DAY
+metoprolol succinate (TOPROL-XL) 50 MG 24 hr tablet TAKE 1 TABLET BY MOUTH EVERY DAY
+
+PHYSICAL EXAMINATION:
+Temperature:
+[36.1 °C (97 °F)] 36.1 °C (97 °F)
+Heart Rate:
+[81-138] 88
+Respiratory Rate:
+[14-21] 17
+BP: (116-166)/(62-107) 120/72
+[97 %-99 %] 99 % (07/26 1255)
+General Appearance: Alert, cooperative, no distress, appears stated age
+HEENT: Pupil equal and reactive, mucous membrane moist, No jaundice.
+Neck: Supple, symmetrical, no carotid bruit or JVD
+Lungs/Respiratory: Clear to auscultation bilaterally, respirations unlabored
+Heart: Regular rate and rhythm, S1 and S2 normal, no murmur, rub or gallop
+Abdomen: Soft, non-tender, bowel sounds active all four quadrants,
+Extremities: No edema, cyanosis or clubbing.
+Skin: Skin color, texture, turgor normal, no rashes or lesions
+Neurologic: Patient is AA0X3, No focal neurological deficit.
+
+Recent lab:
+
+CBC-
+
+Lab Results
+Component Value Date
+
+WBC 6.42 06/10/2095
+
+HGB 15.7 06/10/2095
+
+MCV 84.2 06/10/2095
+
+HCT 43.8 06/10/2095
+
+PLT 238 06/10/2095
+
+BMP-
+
+Lab Results
+Component Value Date
+
+NA 140 06/10/2095
+
+K 4.2 06/10/2095
+
+CL 102 06/10/2095
+
+CO2 25 06/10/2095
+
+BUN 8 06/10/2095
+
+GLU 99 06/10/2095
+
+PHOS 1.8 
+(Abnormally L) 06/10/2095
+
+Estimated Creatinine Clearance: 138 mL/min (based on SCr of 0.92 mg/dL).
+
+LIPID PROFILE-
+
+Lab Results
+Component Value Date
+
+HDL 53 03/10/2095
+
+LDL 90 03/10/2095
+
+CHOL 166 03/10/2095
+
+COAGULATION PROFILE-
+
+Lab Results
+Component Value Date
+
+PT 13.2 06/10/2095
+
+EKG: A. fib with RVR
+
+No results found.
+
+IMPRESSION/PLAN:
+A. fib with RVR
+Plan was for cardiology evaluation
+Continue on metoprolol and monitoring telemetry.
+Continue on flecainide.
+
+Alcohol use
+Alcohol level was 58, no features of withdrawal.
+Denies drinking alcohol regular basis.
+Plan was for CIWA with as needed Ativan
+
+DVT Prophylaxis: SQ LMW Heparin
+
+Activity: as tolerates
+Diet: Cardiac
+Code Status: full
+Level of Care: Observation
+I placed the patient in outpatient status with observation services for further monitoring of his condition.
+
+"A portion of this record may have been created with voice recognization software. Occasionally wrong word or sound-a-like substitutions may have occurred due to limitation in software recognition. Read the chart carefully and recognize, using context, where substitutions have occurred."
+
+Patrick Whoisthis, MD
+Pager# 54321
+

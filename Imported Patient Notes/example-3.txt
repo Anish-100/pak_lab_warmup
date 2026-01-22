@@ -1,0 +1,392 @@
+HOSPITAL MEDICINE GROUP
+
+Medicine Attending Admission History & Physical
+
+Patient Name: Johnston Sample
+DOB: 09/10/3010
+MRN: 87654321
+PCP: Unknown Unknown, MD
+
+Date of Admission: 10/11/3050
+Location: EXAMP09A
+Attending Provider: Jessica Unreal Identity, MD
+
+History provided by: chart review and the patient
+
+Chief Complaint/Reason for Admission: fever, cough
+
+History of Present Illness:
+Johnston Sample is a 40 y/o M with HTN, HLD, IDDM type 2( last A1c 7.4%), CAD s/p DES x3 to LAD in 3048, OSA who presents with four days of fever and one day of cough/SOB. Noted fever starting 4 days ago with Tmax 103.8 F at home. Last night, developed a mild non productive cough. This morning, woke up and felt that it was much more difficult to breathe, so came to ED. No nasal congestion or sore throat. No chest pain, swelling of legs, significant orthopnea/PND. No changes in urination (including polyuria) or rash. Has had poor appetite and has not been eating or drinking much. His fasting BG were in 80s-120s, so has been deferring insulin administration at home. Estimates last insulin was Friday (3 days ago) - normally takes 26 units of Levemir BID. Continued oral home meds until this AM; last dose last night.
+No recent travel and no known sick contacts. However, drives for Uber and is in close quarters with riders.
+Called his PCP today and was advised to come to the ED for further evaluation.
+
+ED Course:
+Pt's VS were:initial tachycardia to 115 that improved with fluids; fever to 101.4 F; tachypnea to 40s with sat >94% on RA
+Labs notable for hyperglycemia to 210s; metabolic acidosis with bicarb 16; AGAP elevated 21; hyperkalemia to 5.7.
+Normal WBCs, Flu/RSV negative
+Imaging w/ CXR showing multifocal PNA
+Was given 2 liters LR, 2 gm CTX, 500 mg azithromycin
+
+On arrival to the floor, reports feeling much less dyspneic and is now able to talk on the phone.
+
+Medical History: 
+
+Past Medical History: Past Surgical History:
+Past Medical History:
+Diagnosis Date
+• Arteriosclerotic heart disease 12/10/3045
+
+Coronary arteriosclerosis; s/p stent
+
+• CAD, multiple vessel 12/30/3047
+• Coronary artery disease
+
+• Diabetes mellitus
+
+• Hyperlipidemia 6/10/3040
+• Hypertension 6/20/3040
+• Hypertensive disorder
+
+• Obstructive sleep apnea syndrome 1/5/3045
+
+OSA - Obstructive sleep apnea; changed to APAP 6-20 cm on 1/5/3045. HCNE-
+seema
+
+• Status post insertion of drug eluting coronary artery stent 1/4/3048
+
+Past Surgical History:
+Procedure Laterality Date
+• APPENDECTOMY
+
+• TONSILLECTOMY
+
+Social History: Family History:
+Social History
+
+Tobacco Use
+• Smoking status: Never Smoker
+• Smokeless tobacco: Never Used
+Substance Use Topics
+• Alcohol use: No
+
+Comment: none
+
+Family History
+Problem Relation Age of Onset
+• Stroke Paternal Grandmother
+
+Stroke
+• Diabetes Maternal Aunt
+
+• Glaucoma Maternal Grandmother
+
+• Macular degeneration Neg Hx
+
+• Retinal detachment Neg Hx
+
+Medications
+Medications Prior to Admission:
+Prior to Admission Medications
+Prescriptions
+INSULIN GLARGINE,HUM.REC.ANLOG (INSULIN GLARGINE SUBQ)
+Sig: 30 Units 2 (two) times a day.
+
+Note (9/10/3047): Needs MD Verification. METAL Med Transfer Process.
+
+aspirin 81 MG EC tablet
+Sig: TAKE 1 TABLET BY MOUTH EVERY DAY
+blood sugar diagnostic (FREESTYLE LITE) Strp strips
+Sig: Use to test blood sugars up to 3X daily and for hypoglycemia if needed for diabetes E11.21
+clopidogrel (PLAVIX) 75 mg tablet
+Sig: Take 1 tablet by mouth daily.
+Note (9/10/3047): METAL Med Transfer Process
+
+dulaglutide (TRULICITY) 1.5 mg/0.5 mL subcutaneous injection
+Sig: 1.5 mg sc weekly
+empagliflozin (JARDIANCE) 10 mg tablet
+Sig: Take 10 mg by mouth.
+ezetimibe (ZETIA) 10 mg tablet
+Sig: TAKE 1 TABLET(10 MG) BY MOUTH DAILY
+glipiZIDE (GLUCOTROL) 5 MG 
+tablet
+Sig: Take 1 tablet by mouth 2 (two) times a day.
+Note (9/10/3047): METAL Med Transfer Process
+
+insulin detemir U-100 (LEVEMIR) 100 unit/mL injection vial
+Sig: Inject 26 Units under the skin 2 (two) times a day.
+
+insulin syringe-needle U-100 (BD INSULIN SYRINGE ULTRA-FINE) 1 mL 31 gauge x 5/16 Syrg
+Sig: use as directed UP TO 5 TIMES A DAY
+lisinopril (PRINIVIL,ZESTRIL) 10 MG tablet
+Sig: Take 1 tablet by mouth daily.
+Note (9/10/3047): METAL Med Transfer Process
+
+metFORMIN (GLUCOPHAGE) 500 MG tablet
+Sig: Take 1 tablet by mouth 2 (two) times a day.
+Note (9/10/3047): METAL Med Transfer Process
+
+metoprolol succinate (TOPROL-XL) 50 MG 24 hr tablet
+Sig: Take 1 tablet by mouth daily.
+Note (9/10/3047): METAL Med Transfer Process
+
+rosuvastatin (CRESTOR) 5 MG tablet
+Sig: Take 40 mg by mouth nightly.
+
+Note (9/10/3047): METAL Med Transfer Process
+
+syringe with needle (SYRINGE 3CC/21GX1-1/2") 3 mL 21 gauge x 1 1/2" Syrg
+Sig: Use every 2 weeks for testosterone
+testosterone cypionate (DEPO-TESTOTERONE) 200 mg/mL injection
+Sig: Inject 160 mg into the muscle.
+
+Facility-Administered Medications: None
+
+Allergies
+Allergies
+Allergen Reactions
+• Hydrochlorothiazide
+
+D/c during 10/3048 admission to Example Hospital as it was felt to be causing pulmonary sx.
+
+Review of Systems:
+10 point ROS reviewed w/ pt, w/ pertinent findings highlighted in HPI
+
+Exam
+Physical Exam:
+
+Vital Signs:
+T Temp (24hrs), Avg:37.4 °C (99.3 °F), Min:36.6 °C (97.9 °F), Max:38.6 °C (101.4 °F)
+
+HR
+[101-129] 103
+RR Respiratory Rate:
+[18-40] 28
+BP (117-157)/(56-74) 135/62
+O2 sat SpO2:
+[93 %-96 %] 94 % | O2 Device: None (Room air) (03/16 1600)
+
+Intake/Output Summary (Last 24 hours) at 3/16/2020 1659
+Last data filed at 3/16/2020 1545
+Gross per 24 hour
+Intake 1300 ml
+Output --
+Net 1300 ml
+
+Wt Readings from Last 2 Encounters:
+03/16/20 109 kg (240 lb)
+07/20/18 117.9 kg 
+(260 lb)
+
+Gen: in NAD, lying in bed comfortably, conversant?, AA&Ox3
+HEENT: NC/AT, EOMI, non-icteric sclera, MMM
+Neck: supple, full ROM, no LAD
+CVS: RRR, S1, S2, no m/g/r
+Pulm: mild to moderate tachypnea, no retractions, poor air movement throughout with scattered crackles
+Abd: soft, BS+, NT/ND
+Ext: warm, pulses palpable, no LE edema
+Derm: no rashes? appreciated
+Neuro: grossly non focal
+Psych: normal affect
+
+Data/Results
+Diagnostics:
+Labs:
+CBC:
+Recent Labs
+
+10/11/3050
+1016
+WBC 10.71
+HGB 12.4*
+HCT 39.8*
+PLT 304
+
+Coags:
+Results from last 7 days
+Lab Units 10/11/3050
+1016
+PT sec 14.7*
+PT-INR
+1.2*
+
+BMP:
+Recent Labs
+
+10/11/3050
+1016
+NA 134*
+K 5.4*
+CL 96*
+CO2 17*
+BUN 17
+CRE 1.31
+GLU 234*
+MG 2.0
+PHOS 1.3*
+CA 9.2
+
+LFTs:
+Recent Labs
+
+10/11/3050
+1016
+ALB 3.8
+ALKP 113
+TP 8.3
+DBILI 0.3
+TBILI 1.1*
+
+Micro: flu/RSV negative
+Blood cultures: pending
+COVID- 19: pending
+
+Imaging:
+CXR portable:
+Multifocal hazy opacities throughout the lungs, concerning for multifocal
+pneumonia, which could be viral or bacterial in etiology.
+
+EKG: sinus tachycardia, QTc 417. No concerning ST changes..
+
+ASSESSMENT / PLAN:
+40 y/o M with HTN, HLD, IDDM type 2( last A1c 7.4%), CAD s/p DES x3 to LAD in 3048, OSA who presents with four days of fever and one day of cough/SOB with multifocal PNA, r/o COVID-19, hyperglycemia and metabolic acidosis.
+
+* Multifocal pneumonia
+Presenting with fever x4 days and cough/SOB x1 day iso no travel or known sick contacts. Initially septic with fever, tachypnea and tachycardia and elevated lactate to 2.6 - vitals now improved after 2 L IVF.
+Diagnosis:
+- CXR with multifocal PNA
+- Flu/RSV neg
+- Infectious Diseases contacted; qualified for COVID - 19 testing as below:
+Current Testing Criteria for COVID-19 for Infectious Diseases Evaluation (as of 10/11) - Please check all that apply
+ 
+Among patients with a 
+respiratory viral syndrome and no clear alternative etiology identified...
+At least one of the following, potentially attributable to a respiratory viral illness:
+1. Fever
+
+____X___________
+2. Sore Throat
+
+_______________
+3. Cough
+
+_____X__________
+4. Shortness of Breath
+
+______X_________
+5. Muscle aches
+
+_______________
+ 
+And at least one of the following (this is a prioritized list based on test availability):
+1. Inpatient
+
+_______________
+2. Emergency department patient requiring admission
+_______X________
+3. Healthcare worker who worked while sick
+_______________
+4. Patient cared for by symptomatic healthcare worker with confirmed COVID19
+
+_______________
+5. Household contact of healthcare worker
+
+_______________
+6. High risk patient:
+a. Age ?70
+
+_______________
+b. Severe chronic lung disease (e.g. asthma, bronchiectasis, cystic fibrosis, COPD, etc.)
+
+_______________
+c. Severe heart disease
+_______________
+d. CD4 count <200
+
+_______________
+e. On immunocompromising medications (e.g. prednisone >20mg/d, chemotherapy, mycophenolate, cyclosporine, azathioprine, tacrolimus, TNF inhibitors, monoclonal antibodies, etc.)
+
+_______________
+ 
+ 
+ASSESSMENT: PUI - Patient DOES MEET current criteria for COVID-19 testing
+ 
+PLAN:
+- Flu/RSV (pending)
+- W/u for multifocal pneumonia
+- NP swab for COVID-19 PCR
+ 
+- Recommend that the provider wear an N95 mask + contact + eye protection while obtaining any nasopharyngeal specimens for testing. During this specimen collection, please close the door to the patient's room and wipe down nearby surfaces thereafter.
+ 
+- if PUI and needs admission, continue contact + droplet + eye protection precautions
+ 
+- Exception: if PUI who needs admission and requires nebulizers (if 
+there is no suitable alternative inhaler), then needs STRICT ISOLATION (contact + airborne + eye protection) in negative pressure room. Providers should wear N95 mask in room while patient is receiving nebulizers and for 60 minutes afterwards.
+
+- If clinical status deteriorates requiring ICU level of care, please reach out to the Infectious Diseases pager again about testing prioritization.
+
+Treatment:
+- CTX and azithromycin for potential CAP - continue CTX for 5 day course and azithro 500 x3 days
+- Follow up blood cultures
+- Follow up COVID testing; contact Infectious Diseases if decompensation as above
+- Supplemental O2 as needed to maintain sat >90%
+- Consider chest CT for worsening symptoms
+- Consider TTE for worsening symptoms and concern for viral myocarditis/cardiomyopathy - last with normal EF but several years ago
+
+Acute hyperglycemia
+BG in 200s in ED with CO2 17 and AGAP of 21 in setting of missed insulin doses x3 days. Concern for DKA vs lactic acidosis (lactate elevated to 2.6). Has received 2 liters IVF but no insulin.
+Diagnosis:
+- Repeat stat BMP, beta hydroxybuterate, lactate
+
+Treatment:
+- If evidence of DKA on repeat labs, start DKA protocol
+- If not, will re-start home long acting insulin at lower dose of 15 u BID (total 30 units daily, normal home dose 52 units daily) with SSI
+- Hold home oral DM medications and Trulicity IM (given Wednesdays)
+- Carb consistent diet
+
+Hypertension
+See plan under #atherosclerotic HD
+
+Hyperlipidemia
+
+See plan under #atherosclerotic HD
+
+Diabetes mellitus
+Last A1c 7.4%. See plan under #Hyperglycemia.
+
+Obstructive sleep apnea syndrome
+Per outpatient notes has not tolerated CPAP in past and is not currently receiving nightly CPAP.
+
+Arteriosclerotic heart disease
+CAD s/p DES x3 to LAD in 3048. Continued on ASA/Plavix indefinitely. Follows with Example Cardiology.
+- No current cardiac symptoms; EKG with sinus tachycardia 
+only
+- Continue on low risk telemetry; can d/c if normal x24-48 hours
+- Continue home ASA, Plavix, Crestor, Zetia, beta blocker with hold parameters
+- Will hold ACE-I (lisinopril) 2/2 hyperkalemia; re-start tomorrow if K normalized
+
+# Hospital Issues:
+- Diet = Diet Regular; Total carbohydrates: Consistent carbohydrate; Fat Restriction: Low fat (cardiac)
+- Access = PIV
+- Foley = no
+- Monitoring = Telemetry: yes, low risk; O2: yes
+- IVFs = none
+- Prophylaxis = DVT: lovenox; GI: not indicated
+- Consults = active: none; signed off: none
+- Outstanding Issues = improvement in symptoms
+- Code = Full Code (Presumed)
+- HCP/Contact = , Extended Emergency Contact Information
+Primary Emergency Contact: Sample,Jensen Nvidia
+Address: DEFERRED
+United States of America
+Home Phone: (123)456-7890
+Work Phone: (123)456-7890
+Relation: Brother
+- Dispo = just admitted; anticipate at least 2 day admission
+
+----------------------------------
+Andrew Notadoctor, MD
+Hospital Medicine Group
+p12345
+October 11, 3050
+2:41 PM
+

@@ -1,6 +1,7 @@
 from dotenv import load_dotenv
 import errors
 from google import genai
+from pathlib import Path
 
 import os
 
@@ -18,5 +19,6 @@ number = 1
 with open (f'data/GEMINI RESPONSE {number}','w') as file:
     file.write(response.text)
     print(response.text)
+
 
 
