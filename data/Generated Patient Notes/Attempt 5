@@ -1,0 +1,675 @@
+[Target MD Style: Theodore Exemplified, MD (PGY-1)]
+[ICD-10 Category: N39.0 - Urinary tract infection, site not specified; R65.20 - Severe sepsis without septic shock]
+[Demographic Gap: Elderly, SNF (Skilled Nursing Facility) Resident]
+
+ADMISSION NOTE
+
+PATIENT: Margaret Oldly
+MRN: 88776655
+DATE OF ADMISSION: 01/12/3050
+TIME: 11:45 PM
+ADMITTING ATTENDING: Jessica Unreal Identity, MD
+HOSPITAL FLOOR/LOCATION: EXAMP02
+PCP: Kevin Doctorly, MD
+CODE STATUS: DNR/DNI
+
+Chief Complaint/Reason for Admission: Altered mental status, fever.
+
+History of Present Illness: Margaret Oldly is an 88 y.o. female resident of "Example Gardens SNF" with PMH significant for vascular dementia and chronic indwelling foley catheter who presents from the facility for increased confusion and lethargy.
+
+Per SNF report, the patient was in her usual state of health until yesterday when she became increasingly somnolent and refused her meals. She was noted to have a temperature of 101.5F at the facility this evening. Her urine was noted to be foul-smelling and cloudy. No history of recent falls or trauma. She was last treated for a UTI 3 months ago with nitrofurantoin. 
+
+In the ED, she was found to be tachycardic and hypotensive (BP 92/58), which responded to 1.5L of IVF. She remains disoriented to person, place, and time (baseline is oriented to person only).
+
+Travel/exposure history: None. Resident of SNF for 3 years.
+Healthcare exposure: Frequent hospitalizations for UTI; last admission was to EXAMP09A in 3049.
+Sick contacts: Several residents at SNF currently being treated for "the flu."
+
+ED Course:
+Initial Vitals: 38.4 °C (101.1 °F) | HR (!) 112 | BP 92/58 | RR 22 | SpO2 94% on RA.
+Meds and Fluids: 1.5L NS, IV Vancomycin + Ceftazidime.
+Flu/RSV negative. 
+Urinanalysis: Large leukocyte esterase, +Nitrites, WBC >100.
+
+Review of Systems: Unable to obtain full ROS due to patient's mental status. Pertinent negatives per nursing: no visible rashes, no cough, no diarrhea.
+
+Past Medical/Surgical History:
+Patient Active Problem List
+Diagnosis
+• Vascular Dementia
+• Hypertension
+• Chronic Foleys Catheterization
+• Atrial Fibrillation (on apixaban)
+• Hypothyroidism
+• Osteoarthritis
+
+Home Medications:
+(confirmed with SNF transfer sheet)
+• Apixaban 2.5mg BID
+• Donepezil 10mg daily
+• Levothyroxine 75mcg daily
+• Amlodipine 5mg daily
+
+Allergies: Penicillins (Rash).
+
+Physical Exam on admission:
+Vitals: T 37.9 °C (100.2 °F) | HR (!) 98 | BP 105/64 | RR 18 | SpO2 96 % | on RA
+
+Gen: Frail elderly female, appears tired, mildly agitated when disturbed.
+HEENT: Dry mucous membranes.
+CV: Tachycardic, irregular rhythm (known A-fib). No murmurs.
+Pulm: Lungs clear to auscultation bilaterally. No wheezing or crackles.
+Abd: Soft, non-tender. Supra-pubic tenderness noted on palpation. Chronic foley in place with cloudy urine.
+Ext: Trace pedal edema bilaterally. No calf tenderness.
+Neuro: Alert but not oriented. Follows simple commands intermittently. No focal deficits.
+
+DATA/RESULTS
+Labs:
+WBC 18.2 (85% neutrophils), Hgb 10.1, Plt 145.
+BMP: Na 145, K 3.8, Cl 108, CO2 20, Cr 1.4 (Baseline 0.9), Lactate 2.4.
+
+Micro:
+UA: +Nitrite, +LE, WBC >100, Bacteria 4+.
+Blood/Urine cultures: Pending.
+
+Radiology:
+CXR: Clear lungs, no acute infiltrates.
+
+Assessment and Plan: 88 y.o. female from SNF with dementia and chronic foley catheter presenting with septic physiology (tachycardia, hypotension, elevated lactate, leukocytosis) secondary to UTI/Urosepsis.
+
+#Sepsis / UTI
+Likely source is urinary given foley and UA results.
+- Continue IV Ceftazidime (adjusted for CrCl).
+- Discontinue Vancomycin as no evidence of MRSA/skin source.
+- Exchange foley catheter.
+- Trend Lactate and WBC.
+- IVF at 75cc/hr.
+
+#Altered Mental Status
+Likely multifactorial (infection vs. baseline dementia).
+- Monitor neuro status.
+- Avoid Benadryl/sedatives.
+
+Hospital Bundle
+Diet: Pureed
+DVT Prophylaxis: Continue home Apixaban
+Telemetry: Yes (A-fib)
+Dispo: Return to SNF upon stabilization
+
+CODE: DNR/DNI (Confirmed with POLST from SNF)
+CONTACT/HCP:
+Primary Contact: Arthur Oldly (Son)
+Phone: 555-123-4444
+
+_____________________________
+Theodore Exemplified, MD
+Internal Medicine PGY-1
+Pager # 12345
+
+########
+
+[Target MD Style: Andrew Notadoctor, MD (HMG Attending)]
+[ICD-10 Category: I33.0 - Acute and subacute infective endocarditis]
+[Demographic Gap: IVDU (Intravenous Drug User)]
+
+HOSPITAL MEDICINE GROUP
+Medicine Attending Admission History & Physical
+
+Patient Name: Michael Needle
+DOB: 05/05/3020
+MRN: 11223344
+PCP: Unknown Unknown, MD
+
+Date of Admission: 03/15/3051
+Location: EXAMP09A
+Attending Provider: Andrew Notadoctor, MD
+
+History provided by: patient and chart review.
+
+Chief Complaint/Reason for Admission: "Chills and back pain"
+
+History of Present Illness:
+Michael Needle is a 31 y/o M with a history of IV drug use (methamphetamines/fentanyl) and prior MRSA bacteremia who presents with 1 week of worsening mid-back pain, drenching night sweats, and subjective fevers. Patient states he "hasn't been feeling right" since using a new batch of needles 10 days ago. He reports a sharp pain in his spine that is worse with movement. Denies any weakness or numbness in legs. No cough or SOB. He has been taking OTC ibuprofen with minimal relief.
+
+ED Course:
+Initial vitals: T 102.8 F, HR 125, BP 110/60, RR 20, SpO2 98% on RA.
+Labs notable for WBC 22.0, Lactate 3.1.
+CXR was clear.
+Started on Vancomycin and Piperacillin/Tazobactam. 
+MRI Spine ordered in ED (pending).
+
+Medical History: 
+
+Past Medical History:
+Diagnosis Date
+• Substance use disorder, Opioid 3045
+• MRSA Bacteremia 3048
+• Hepatitis C (untreated) 3046
+• Cellulitis, Left Arm 3049
+
+Past Surgical History:
+• I&D of skin abscess 3048
+
+Social History:
+Tobacco Use: Current smoker (1 pack/day)
+Substance Use: Admits to daily IV drug use. Last use this morning.
+
+Medications:
+Prior to Admission Medications:
+None.
+
+Allergies: 
+No Known Drug Allergies.
+
+Exam
+Physical Exam:
+Vital Signs:
+T 38.9 °C (102.1 °F), HR 118, RR 22, BP 114/68, SpO2 97% RA.
+
+Gen: Flushed, appears uncomfortable, diaphoretic.
+HEENT: Poor dentition. No Janeway lesions or Osler nodes noted on quick screen.
+CVS: Tachycardic. New grade II/VI systolic murmur at the apex. 
+Pulm: Clear.
+Abd: Soft, non-tender.
+Ext: Multiple track marks in bilateral antecubital fossae. Redness and warmth over right forearm. 
+Neuro: No focal deficits. Strength 5/5 in lower extremities.
+Skin: Scattered scabs, no acute fluctuant abscesses.
+
+Data/Results
+Labs:
+WBC 22.4, Hgb 11.2, Plt 310.
+Creatinine 0.88.
+Lactate 3.1 (Initial) -> 1.8 (post 2L IVF).
+Blood Cultures (2 sets): Pending.
+
+Imaging:
+MRI Spine: Pending.
+EKG: Sinus tachycardia. No heart block.
+
+ASSESSMENT / PLAN:
+31 y/o M with IVDU history presenting with fever, back pain, and a new murmur. High concern for Infective Endocarditis with possible spinal seeding (discitis/osteomyelitis).
+
+* Acute Infective Endocarditis
+Diagnosis:
+- New murmur on exam.
+- Blood cultures pending.
+- TTE and TEE ordered.
+Plan:
+- Vancomycin (trough-based dosing).
+- Cefepime (for gram negative coverage given IVDU).
+- ID Consult paged.
+- Monitor for heart block/EKG daily.
+
+* Fever / Back Pain
+- MRI Spine to rule out epidural abscess/discitis.
+- Neurosurgery consult if MRI positive.
+- Pain management: Avoid narcotics if possible, but may need low dose given withdrawal risk.
+
+* Substance Use Disorder
+- Social work consult.
+- Discussed Medication Assisted Treatment (Suboxone); patient interested.
+
+# Hospital Issues:
+- Diet = Regular
+- Access = PIV (Patient difficult stick, Ultrasound-guided used)
+- Monitoring = Telemetry (High risk for arrhythmia/block)
+- Prophylaxis = DVT: Lovenox
+- Code = Full Code
+
+----------------------------------
+Andrew Notadoctor, MD
+Hospital Medicine Group
+p12345
+March 15, 3051
+4:20 PM
+
+########
+
+[Target MD Style: Patrick Whoisthis, MD (Attending/Hospitalist)]
+[ICD-10 Category: L03.115 - Cellulitis of right lower limb]
+[Demographic Gap: Middle-aged, Voice Recognition Errors]
+
+ADMISSION HISTORY & PHYSICAL
+
+6/20/3050
+10:15 AM
+
+Patient: Harold Stumbles
+DOB: 04/12/3005
+PCP: Alice Fakename, MD
+
+CHIEF COMPLAINT: Red leg
+
+HISTORY OF PRESENT ILLNESS:
+Harold Stumbles is a 45 y.o. male who presents with right leg pain and redness. Patient was working in his garden 3 days ago and says he was bitten by something. Since then the leg has become swollen and very red. 
+He tried to put some cream on it at home but it didn't help. 
+Came to the ED because he started having chills. 
+Patient has a history of diabetes but says he doesn't check his sugars often.
+In the ED he was a febrile (voice recognition error: meant "afebrile") but had a tack a cardia (voice recognition error: meant "tachycardia") to 110.
+
+MEDICAL & SURGICAL HX:
+• Type 2 Diabetes
+• Obesity
+• Hypertension
+
+REVIEW OF SYSTEMS:
+Constitutional: Negative for chills and fever.
+Respiratory: Negative.
+Cardiovascular: Negative for chest pain.
+Gastrointestinal: Negative.
+All other systems reviewed and are negative.
+
+PRIOR TO ADMISSION MEDICATIONS:
+• Metformin 1000mg BID
+• Lisinopril 20mg daily
+
+PHYSICAL EXAMINATION:
+Heart Rate: 104
+BP: 145/88
+SpO2: 98%
+General Appearance: No acute distress.
+Lungs: Clear.
+Heart: Regular.
+Extremities: Right leg (HPI says right, PE says right) shows significant erythema from the ankle to the mid-calf. Warm to touch. Mildly tender. No crepitus. No fluctuance. Left leg is normal.
+Skin: Redness noted as above.
+
+Labs:
+WBC 12.5.
+Glucose 245.
+BMP normal otherwise.
+
+IMPRESSION/PLAN:
+Cellulitis of right lower extremity
+Plan for IV Ancef.
+Marked the area for monitoring.
+Continue home DM meds.
+Podiatry consult to rule out deeper infection.
+
+DVT Prophylaxis: SQ Heparin
+
+Activity: as tolerates
+Diet: Diabetic
+Code Status: Full
+Level of Care: Observation
+
+"A portion of this record may have been created with voice recognization software. Occasionally wrong word or sound-a-like substitutions may have occurred due to limitation in software recognition. Read the chart carefully and recognize, using context, where substitutions have occurred."
+
+Patrick Whoisthis, MD
+Pager# 54321
+
+########
+
+[Target MD Style: Michael Fake Sample, MD (PGY-4 Teach Note)]
+[ICD-10 Category: N39.0 - UTI]
+[Demographic Gap: SNF Resident (Reference to Note 1)]
+
+NIGHT TEACH NOTE
+
+PATIENT: Margaret Oldly
+MRN: 88776655
+DATE OF ADMISSION: 01/13/3050
+ADMITTING INTERN: Theodore Exemplified, MD
+LOCATION: EXAMP02
+SERVICE: Example C
+
+REASON FOR ADMISSION: Altered mental status, urosepsis.
+
+BRIEF HPI: Please refer to the intern admission note for full details; I agree with those findings and would emphasize the following:
+
+Margaret Oldly is an 88 y.o. female with vascular dementia and chronic foley who presents from "Example Gardens SNF" with AMS and fever. This is a classic presentation for urosepsis in a patient with a chronic indwelling catheter. In the ED she was hypotensive but responded to fluids.
+
+Intern correctly identified the source as urinary (UA 4+ bacteria/WBCs).
+
+IMPRESSION AND PLAN:
+#Urosepsis:
+I agree with the plan to continue Ceftazidime. We should be cautious with fluid resuscitation given her age and history of hypertension, though she responded well initially. The foley must be changed to ensure we are treating the systemic infection and not just a colonized catheter. Given her "Penicillin" allergy is a rash, cephalosporins are generally safe, but we will monitor closely.
+
+#Vascular Dementia / AMS:
+Her confusion is likely "sundowning" exacerbated by systemic infection. We should minimize checks overnight if she is stable to allow for better sleep hygiene.
+
+Remainder of plan as per intern admission note.
+
+----------------------------------------
+Michael Fake Sample, MD
+PGY-4, Example Department of Medicine
+
+########
+
+[Target MD Style: Theodore Exemplified, MD (PGY-1)]
+[ICD-10 Category: A15.0 - Tuberculosis of lung]
+[Demographic Gap: Immigrant, Travel Focus]
+
+ADMISSION NOTE
+
+PATIENT: Juan Example-Rodriguez
+MRN: 44556677
+DATE OF ADMISSION: 05/20/3050
+TIME: 02:00 AM
+ADMITTING ATTENDING: Frank Notreal Name, MD
+HOSPITAL FLOOR/LOCATION: EXAMP02 (Negative Pressure Room)
+PCP: Unknown
+CODE STATUS: Full Code
+
+Chief Complaint/Reason for Admission: Weight loss, night sweats, hemoptysis.
+
+History of Present Illness: Juan Example-Rodriguez is a 34 y.o. male who recently emigrated from a high-prevalence TB region (Central America) 4 months ago, presenting with 3 weeks of productive cough, occasional blood-tinged sputum, and significant drenching night sweats. 
+
+He reports an unintentional 15-lb weight loss over the last month. He denies chest pain or shortness of breath. He was working in a construction site until 2 weeks ago when he became too fatigued to continue. He has no known PMH and takes no medications. 
+
+Travel/exposure history: Moved to the US 4 months ago. States several family members back home had "long-term coughs." 
+Healthcare exposure: None.
+Sick contacts: See above.
+
+ED Course:
+Initial Vitals: 37.8 °C (100.0 °F) | HR 92 | BP 110/70 | RR 18 | SpO2 98% RA.
+CXR: Upper lobe cavitary lesion on the right.
+Patient placed in airborne precautions immediately.
+
+Review of Systems: Positive for weight loss, night sweats, cough, hemoptysis. Negative for diarrhea, headache, or bone pain.
+
+Past Medical/Surgical History:
+Diagnosis: None.
+
+Social History:
+Lives in a multi-generational household (8 people in a 2-bedroom apartment). Non-smoker.
+
+Physical Exam on admission:
+Vitals: Tcurrent 37.2 °C (98.9 °F) | HR 88 | BP 112/64 | RR 16 | SpO2 99 % RA.
+
+Gen: Thin male, appearing older than stated age.
+HEENT: Temporal wasting noted.
+CV: RRR, no murmurs.
+Pulm: Decreased breath sounds in RUL. No wheezing. 
+Ext: No edema.
+Skin: No rashes.
+
+DATA/RESULTS
+Labs:
+WBC 9.8, Hgb 10.5 (Microcytic), Plt 450.
+BMP: Na 136, K 4.0, Cr 0.7.
+
+Radiology:
+CXR: 2.5 cm cavitary lesion in the right lung apex with surrounding hazy infiltrates.
+
+Assessment and Plan: 34 y.o. male with recent immigration history and classic symptoms of weight loss/night sweats/hemoptysis with cavitary RUL lesion. Highly concerning for active Pulmonary Tuberculosis.
+
+#Pulmonary TB Rule-out
+- Airborne isolation in negative pressure room.
+- Sputum x3 for AFB stain and culture (first one sent).
+- Sputum PCR for M. tuberculosis (pending).
+- Quantiferon Gold sent.
+- ID Consult paged.
+- HIV screen (sent).
+
+#Weight loss / Anemia
+- Likely secondary to chronic infection.
+- Supplement with high-protein diet.
+
+#Public Health
+- Hospital infection control notified.
+- Will need to coordinate with Department of Health regarding household contacts.
+
+Hospital Bundle
+Diet: Regular
+DVT Prophylaxis: SQ Heparin
+Telemetry: None
+Dispo: Pending 3 negative AFB smears
+
+_____________________________
+Theodore Exemplified, MD
+Internal Medicine PGY-1
+Pager # 12345
+
+########
+
+[Target MD Style: Andrew Notadoctor, MD (HMG Attending)]
+[ICD-10 Category: J18.9 - Pneumonia, unspecified organism]
+[Demographic Gap: Elderly, Cross-Reference]
+
+HOSPITAL MEDICINE GROUP
+Medicine Attending Admission History & Physical
+
+Patient Name: Arthur Sample-Senior
+DOB: 01/01/2970
+MRN: 99887766
+PCP: Alice Fakename, MD
+
+Date of Admission: 06/15/3050
+Location: EXAMP09A
+Attending Provider: Andrew Notadoctor, MD
+
+History provided by: patient and daughter.
+
+Chief Complaint/Reason for Admission: SOB and cough.
+
+History of Present Illness:
+Arthur Sample-Senior is an 80 y/o M with PMH of COPD and CHF who presents with 3 days of worsening shortness of breath. This is a readmission; he was recently discharged from the surgery service after a hip repair 2 weeks ago. He notes a productive cough with yellow phlegm. No fever at home but feeling "weak." 
+His daughter notes he has been using his rescue inhaler every 4 hours without much relief. 
+He follows Alice Fakename, MD (PCP) who advised him to come to the ED.
+
+ED Course:
+T 100.4 F, HR 105, BP 130/80, RR 26, SpO2 88% on RA.
+Improved to 93% on 2L NC.
+CXR showed RLL opacity.
+Procalcitonin 2.5.
+
+Medical History: 
+• COPD (Group D)
+• CHF (EF 35%)
+• S/p Right Hip ORIF (3050)
+
+Medications:
+• Advair 250/50
+• Lasix 40mg daily
+• Lisinopril 10mg daily
+
+Allergies: 
+Sulfa (Hives).
+
+Exam
+Physical Exam:
+Vital Signs:
+T 37.8 °C (100.0 °F), HR 102, RR 24, BP 128/76, SpO2 93% on 2L NC.
+
+Gen: Elderly male in mild respiratory distress, using accessory muscles.
+CV: RRR, S3 present. No JVD.
+Pulm: Crackles in the Right Lower Lobe. Diffuse expiratory wheezing.
+Ext: Trace edema on the surgical leg (Right). Left leg normal.
+
+ASSESSMENT / PLAN:
+80 y/o M with COPD/CHF presenting with RLL Pneumonia and COPD exacerbation.
+
+* Right Lower Lobe Pneumonia
+- Ceftriaxone 1g daily.
+- Azithromycin 500mg daily.
+- Monitor O2 requirements.
+
+* COPD Exacerbation
+- Prednisone 40mg daily.
+- Scheduled Albuterol/Ipratropium nebs.
+
+* CHF
+- Continue home Lasix; monitor I/Os.
+
+# Hospital Issues:
+- Diet = Heart Healthy
+- Access = PIV
+- Monitoring = Telemetry (Low risk)
+- Prophylaxis = DVT: Lovenox (High risk post-op)
+- Code = Full Code
+
+----------------------------------
+Andrew Notadoctor, MD
+Hospital Medicine Group
+p12345
+June 15, 3050
+
+########
+
+[Target MD Style: Patrick Whoisthis, MD (Attending/Hospitalist)]
+[ICD-10 Category: K57.32 - Diverticulitis of large intestine without perforation]
+[Demographic Gap: Middle-aged, Focus on Practical Events]
+
+ADMISSION HISTORY & PHYSICAL
+
+07/04/3051
+09:00 PM
+
+Patient: Thomas Grillmaster
+MRN: 77665544
+PCP: Ling Unknownname, MD
+
+CHIEF COMPLAINT: Belly pain
+
+HISTORY OF PRESENT ILLNESS:
+Thomas Grillmaster is a 52 y.o. male with history of diverticulosis who presents with Left Lower Quadrant abdominal pain.
+Patient was at a 4th of July BBQ today and had several hot dogs and corn. Started having sharp pain 4 hours ago. 
+He has had this before but says this time it is worse. 
+No nausea or vomiting. Last bowel movement was this morning, normal. 
+Patient denies any fever but feels "hot."
+
+MEDICAL & SURGICAL HX:
+• Diverticulosis
+• Hypertension
+• S/p Appendectomy (3025)
+
+REVIEW OF SYSTEMS:
+Gastrointestinal: Positive for LLQ pain. Negative for diarrhea.
+All other systems reviewed and are negative.
+
+PHYSICAL EXAMINATION:
+Heart Rate: 92
+BP: 155/95
+General Appearance: Alert, guarding abdomen.
+Abdomen: Soft. Significant tenderness to palpation in the LLQ. No rebound or guarding. Bowel sounds present.
+
+Labs:
+WBC 14.2.
+BMP normal.
+
+Imaging:
+CT Abdomen/Pelvis: Diverticulitis in the sigmoid colon without abscess or perforation.
+
+IMPRESSION/PLAN:
+Acute Diverticulitis
+NPO for bowel rest.
+IV Fluids.
+IV Cipro and Flagyl.
+Surgery consult called, they agree with medical management for now.
+
+DVT Prophylaxis: SQ Heparin
+Level of Care: Observation
+
+Patrick Whoisthis, MD
+Pager# 54321
+
+########
+
+[Target MD Style: Theodore Exemplified, MD (PGY-1)]
+[ICD-10 Category: L03.116 - Cellulitis of left lower limb]
+[Demographic Gap: IVDU, SSTI]
+
+ADMISSION NOTE
+
+PATIENT: Robert Tracks
+MRN: 22334455
+DATE OF ADMISSION: 08/12/3050
+TIME: 03:15 AM
+ADMITTING ATTENDING: Jessica Unreal Identity, MD
+LOCATION: EXAMP02
+PCP: None
+CODE STATUS: Full Code
+
+Chief Complaint/Reason for Admission: Left arm swelling and pain.
+
+History of Present Illness: Robert Tracks is a 28 y.o. male with PMH significant for IV drug use who presents with worsening pain, redness, and swelling of his left forearm for 4 days. 
+
+He admits to "missing a vein" while injecting fentanyl 5 days ago. Since then, the area has become increasingly red and warm. He noted some "pus" coming from the site yesterday. He reports subjective fevers and chills. No history of endocarditis. 
+
+ED Course:
+Vitals: T 38.1 C, HR 105, BP 122/78.
+Labs: WBC 15.6.
+X-ray Arm: Soft tissue swelling, no gas.
+
+Physical Exam:
+Ext: Left forearm with 5x7cm area of erythema, warmth, and induration. Fluctuant area noted (2x2cm) suggestive of abscess. 
+(HPI says left arm, Physical Exam says right arm) -> [COPY FORWARD ERROR: Site is Left Arm].
+
+Assessment and Plan:
+#SSTI / Abscess
+- I&D performed in ED with 5cc purulent drainage.
+- Start IV Vancomycin for MRSA coverage.
+- Wound cultures sent.
+
+Hospital Bundle
+DVT Prophylaxis: SQ Heparin
+Dispo: Pending clinical improvement
+
+_____________________________
+Theodore Exemplified, MD
+Internal Medicine PGY-1
+
+########
+
+[Target MD Style: Michael Fake Sample, MD (PGY-4 Teach Note)]
+[ICD-10 Category: I33.0 - Endocarditis]
+[Demographic Gap: Reference to Note 2 (Needle)]
+
+NIGHT TEACH NOTE
+
+PATIENT: Michael Needle
+MRN: 11223344
+DATE OF ADMISSION: 03/16/3051
+ADMITTING INTERN: Random Exemplified, MD
+LOCATION: EXAMP09A
+
+REASON FOR ADMISSION: Endocarditis/Fever.
+
+BRIEF HPI: 
+I agree with the admission note by Dr. Notadoctor. This 31 y/o M is a high-risk patient for MRSA endocarditis given his active IVDU. The new murmur is a significant clinical finding.
+
+IMPRESSION AND PLAN:
+#Endocarditis:
+Blood cultures are still pending, but the clinical suspicion is high enough to justify Vanc/Cefepime. We should prioritize the TEE if the TTE is equivocal. I would emphasize monitoring for any new neurologic deficits (embolic stroke) or conduction delays on telemetry.
+
+#Spinal pain:
+If the MRI spine shows discitis, we are looking at a minimum of 6 weeks of IV antibiotics. Social work needs to be involved early to discuss the feasibility of home IV antibiotics vs. a skilled nursing facility, as many SNFs will not take patients with active substance use and a PICC line.
+
+----------------------------------------
+Michael Fake Sample, MD
+PGY-4
+
+########
+
+[Target MD Style: Andrew Notadoctor, MD (HMG Attending)]
+[ICD-10 Category: A04.72 - Enterocolitis due to Clostridium difficile, not specified as recurrent]
+[Demographic Gap: SNF Resident]
+
+HOSPITAL MEDICINE GROUP
+Medicine Attending Admission History & Physical
+
+Patient Name: Gertrude Example-Elder
+DOB: 02/02/2965
+MRN: 33445566
+PCP: Kevin Doctorly, MD
+
+Date of Admission: 09/10/3050
+Location: EXAMP02
+Attending Provider: Andrew Notadoctor, MD
+
+History: 85 y/o F from SNF with PMH of dementia and recent pneumonia (treated with Levaquin) who presents with 5 days of profuse watery diarrhea. SNF reports 8-10 episodes per day. 
+
+Vitals: T 99.0, HR 110, BP 90/55.
+Labs: WBC 25.0, Cr 2.1 (Baseline 1.0).
+C. diff PCR: Positive.
+
+Plan:
+- Severe C. diff colitis.
+- PO Vancomycin 125mg Q6H.
+- Aggressive IVF for AKI.
+- Contact precautions.
+
+----------------------------------
+Andrew Notadoctor, MD
+HMG
+October 10, 3050

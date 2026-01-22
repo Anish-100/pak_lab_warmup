@@ -1,0 +1,503 @@
+Thought summary:
+**Synthesizing Hospital Admission Notes: A Deep Dive into Dataset Creation**
+
+Alright, let's break this down. My objective is to create ten synthetic hospital admission notes. It's crucial that these notes are not just data entries, but mimic the writing style, formatting nuances, and diversity of the provided examples. I need to make them *feel* like they belong to the same dataset. The target audience is, after all, someone who will recognize the subtleties of these structures.
+
+I'm starting with four key examples: "Theodore Exemplified," "Patrick Whoisthis," "Michael Fake Sample," and "Andrew Notadoctor." Each note embodies a different approach – some are detailed and structured (Theodore), some are concise and workflow-oriented (Michael), and some are comprehensive with specific details (Andrew). I will be sure to incorporate all of the key data points that are detailed in the text to ensure complete replication of the formatting.
+
+I've got a roster of plausible cases for a US urban hospital setting: sepsis, pneumonia, cellulitis, UTIs, and others, to ensure a realistic distribution of cases. These are based on the common infections outlined in the provided link. I also need to craft notes that cover a range of patient demographics, including elderly patients and injection drug users.
+
+The task is not just about the content; the structure and presentation matter. I need to alternate between these formats, to deliver a diverse dataset. The plan is to create notes with headers, clear organization, and a professional tone that is consistent with the example provided. I must make sure that all of the dates in the dataset are futuristic.
+
+Specifically, I'm assigning each case to a style:
+*   Note 1: Use Theodore's format for an 82-year-old woman with UTI and sepsis.
+*   Note 2: Use Andrew's format for a 35-year-old male with cellulitis and a history of IV drug use.
+*   Note 3: Use the Night Teach Note format for a COPD patient with pneumonia.
+*   Note 4: Use Andrew's format for a diabetic foot infection.
+*   Note 5: Use Patrick's format for C. diff colitis.
+*   Note 6: Use Theodore's format for a case of Pyelonephritis.
+*   Note 7: Use the Night Teach Note format for Meningitis.
+*   Note 8: Use Andrew's format for a Post-op infection.
+*   Note 9: Use Theodore's format for PJP/HIV.
+*   Note 10: Use Patrick's format for Sepsis/Bacteremia.
+
+I've already started ensuring that all the dates are in the futuristic 3050s, so they are consistent with the other examples. Hospital and doctor names will be placeholders. The goal is a dataset that's both realistic and representative of clinical practice, yet completely synthesized.
+
+
+
+Answer:
+ADMISSION NOTE
+
+PATIENT: Maria Rodriguez-Example
+MRN: 98765432
+DATE OF ADMISSION: 11/14/3050
+TIME: 08:45 PM
+ADMITTING ATTENDING: Sarah Realname, MD
+HOSPITAL FLOOR/LOCATION: UNIT04
+PCP: Kevin Doctorly, MD
+CODE STATUS: Full Code
+
+Chief Complaint/Reason for Admission: Fever, altered mental status
+
+History of Present Illness: Maria Rodriguez-Example is an 82 y.o. female with PMH significant for dementia, HTN, and recurrent UTIs who was brought from her skilled nursing facility (SNF) for acute mental status changes and fever.
+
+Per SNF report, the patient was in her usual state of health until yesterday when she became increasingly lethargic and refused to eat. This morning, she was found to have a T-max of 102.4 F. She has had decreased urine output according to nursing staff. No reports of cough, diarrhea, or vomiting. She is non-verbal at baseline due to advanced dementia, but her daughter (HCP) notes she has been "more out of it" than usual.
+
+ED Course:
+Initial Vitals: 39.1 °C (102.4 °F) | HR (!) 115 | BP 92/58 | RR 24 | SpO2 94 % on RA.
+Meds and Fluids: Received 2L NS bolus, 1g IV Vancomycin, and 2g IV Cefepime.
+Labs: WBC 18.5 (88% Neutrophils), Lactate 3.2, Cr 1.6 (baseline 0.9). UA: +Nitrites, +Leukocyte Esterase, 50-100 WBCs.
+
+On arrival to the floor, the patient is sleeping but arousable to tactile stimuli. BP has stabilized to 108/64 after fluids.
+
+Review of Systems: Unable to obtain due to mental status.
+
+Past Medical/Surgical History:
+• Vascular Dementia
+• Hypertension
+• Hyperlipidemia
+• Chronic Kidney Disease Stage 3
+• Recurrent Urinary Tract Infections
+• S/p Cholecystectomy
+
+Home Medications:
+Donepezil 10mg daily
+Amlodipine 5mg daily
+Atorvastatin 20mg nightly
+Aspirin 81mg daily
+
+Allergies: Penicillin (Rash)
+
+Physical Exam on admission:
+Vitals: T 38.2 °C | HR 98 | BP 110/66 | RR 18 | SpO2 96 % on RA
+
+Gen: Frail elderly female, appears fatigued, not in acute distress.
+HEENT: Dry mucous membranes.
+CV: Tachycardic, regular rhythm, no murmurs.
+Pulm: CTA-B, no wheezes.
+Abd: Soft, non-distended, mild suprapubic tenderness to palpation.
+Ext: No edema.
+Neuro: AOx1 (person only), follows simple commands intermittently.
+
+Assessment and Plan: 82 y.o. female from SNF with dementia presenting with septic shock secondary to UTI/Pyelonephritis.
+
+#Sepsis / UTI
+Likely source is urinary given UA and suprapubic tenderness.
+- Continue IV Cefepime (adjusted for renal function); Vanc held as MRSA risk low.
+- Monitor UOP; strict I/Os.
+- Repeat Lactate in 6 hours.
+- Urine and Blood cultures pending.
+
+#Acute Kidney Injury on CKD
+Likely pre-renal due to sepsis/dehydration.
+- IVF at 75cc/hr (NS).
+- Hold Amlodipine while BP marginal.
+
+Hospital Bundle
+Diet: NPO for now (aspiration risk)
+DVT Prophylaxis: SQ Heparin
+Telemetry: Yes
+Dispo: To be determined by clinical course
+
+Theodore Exemplified, MD
+Internal Medicine PGY-1
+Pager # 12345
+
+########
+
+HOSPITAL MEDICINE GROUP
+Medicine Attending Admission History & Physical
+
+Patient Name: Marcus Urban-Sample
+DOB: 05/12/3015
+MRN: 22446688
+PCP: Clinic, City
+
+Date of Admission: 12/01/3050
+Location: EXAMP05B
+Attending Provider: Jessica Unreal Identity, MD
+
+Chief Complaint/Reason for Admission: Left leg pain and swelling
+
+History of Present Illness:
+Marcus Urban-Sample is a 35 y/o M with a history of intravenous drug use (IVDU) and Hepatitis C who presents with 3 days of progressive redness, warmth, and pain in his left lower extremity. He states he injected into his left calf four days ago and noticed a "bump" the next day that began to spread. He reports subjective fevers and chills at home. No chest pain or shortness of breath. No history of DVT. He has not tried any treatments at home.
+
+ED Course:
+Vitals: T 101.1 F, HR 105, BP 132/84, RR 18, Sat 99% RA.
+Labs: WBC 14.2, CRP 85, ESR 60.
+Imaging: Venous duplex negative for DVT. X-ray of LLE showed soft tissue swelling, no evidence of gas or FB.
+Meds: 1g Vancomycin IV given.
+
+Past Medical History:
+• Hepatitis C (untreated)
+• Opioid Use Disorder
+• Cellulitis (multiple prior episodes)
+
+Social History:
+Currently unstably housed. History of IVDU (fentanyl). Smokes 0.5 PPD. No alcohol use.
+
+Medications:
+None.
+
+Allergies:
+No Known Allergies.
+
+Physical Exam:
+Vital Signs: T 37.8 °C (100.0 °F), HR 92, BP 128/78, RR 16, O2 sat 98% RA.
+Gen: Distressed due to pain, otherwise NAD.
+CVS: RRR, no murmurs.
+Pulm: Clear to auscultation.
+Ext: Left lower extremity with a 10x15 cm area of erythema, warmth, and induration extending from the mid-calf to the ankle. Exquisitely tender to palpation. No fluctuance or crepitus noted. Linear tracking (lymphangitis) noted up to the popliteal fossa.
+Neuro: Intact.
+
+ASSESSMENT / PLAN:
+35 y/o M with history of IVDU presenting with left lower extremity cellulitis, likely MRSA or Streptococcal species.
+
+* Cellulitis
+- Mark borders of erythema to monitor for progression.
+- IV Vancomycin (goal trough 10-15).
+- Elevate left leg.
+- Consult Surgery to evaluate for deep tissue involvement/abscess if symptoms do not improve in 24h.
+
+* Opioid Use Disorder / Withdrawal
+- COWS monitoring.
+- Offer Suboxone induction vs. methadone for withdrawal management.
+- Consult Social Work for housing and addiction resources.
+
+* Hepatitis C
+- Will defer treatment to outpatient setting; labs for viral load and genotype.
+
+# Hospital Issues:
+- Diet = Regular
+- Access = PIV (Avoid LLE)
+- Prophylaxis = DVT: Lovenox
+- Code = Full Code
+
+Andrew Notadoctor, MD
+Hospital Medicine Group
+p12345
+December 1, 3050
+
+########
+
+NIGHT TEACH NOTE
+
+PATIENT: Arthur Coughlin
+MRN: 55667788
+DATE OF ADMISSION: 12/15/3050
+ADMITTING INTERN: Random Exemplified, MD
+LOCATION: EXAMP09
+SERVICE: Example B
+
+REASON FOR ADMISSION: COPD Exacerbation vs. Pneumonia
+
+BRIEF HPI:
+Arthur Coughlin is a 68 y.o. male with PMH of severe COPD (on 2L home O2) and CHF who presents with 3 days of increased shortness of breath and productive cough with yellow sputum. He states his breathing has not improved with increased use of his Albuterol inhaler at home. He reports a T-max of 100.8 F earlier today.
+
+In the ED, he was tachypneic (RR 28) and required 4L NC to maintain sats >90%. Labs were notable for a mild leukocytosis (WBC 11.5) and a procalcitonin of 0.45. CXR showed a new focal infiltrate in the RML. He received DuoNebs, 125mg Solu-Medrol, and 500mg Azithromycin.
+
+IMPRESSION AND PLAN:
+#RML Pneumonia and COPD Exacerbation:
+Mr. Coughlin presents with classic signs of a bacterial pneumonia triggering a COPD exacerbation. RML infiltrate on CXR is definitive for PNA.
+- Antibiotics: Change to Ceftriaxone + Azithromycin for CAP coverage.
+- Steroids: Transition to Prednisone 40mg PO daily for 5 days.
+- Respiratory: Scheduled DuoNebs Q6H + Albuterol PRN. Titrate O2 to maintain 88-92% (COPD target).
+- Sputum culture sent.
+
+Remainder of plan as per intern admission note.
+
+Michael Fake Sample, MD
+PGY-4, Example Department of Medicine
+
+########
+
+ADMISSION H&P
+
+6/15/3050
+2:30 PM
+
+Patient: Samantha Glucose
+DOB: 11/20/3005
+PCP: Ling Unknownname, MD
+
+CHIEF COMPLAINT: Foot ulcer
+
+HISTORY OF PRESENT ILLNESS:
+Samantha Glucose is a 44 y.o. female with Type 2 Diabetes (A1c 11.2) who presents with a "hole" in the bottom of her right foot that has been draining foul-smelling fluid for a week. She notes the foot is swollen and red. She denies fevers or chills but notes her blood sugars have been running >300.
+
+MEDICAL & SURGICAL HX:
+• T2DM (diagnosed 3030)
+• Diabetic Neuropathy
+• Hypertension
+
+SOCIAL HX:
+Smoker (1 PPD). Lives alone.
+
+REVIEW OF SYSTEMS:
+Positive for foot pain and polydipsia. Negative for chest pain, SOB, or fevers.
+
+PRIOR TO ADMISSION MEDICATIONS:
+Metformin 1000mg BID
+Glipizide 10mg daily
+Lisinopril 20mg daily
+
+PHYSICAL EXAMINATION:
+Temp: 37.2 °C (99 F)
+Heart Rate: 94
+BP: 145/88
+SpO2: 98 % RA
+Extremities: Right foot with a 2cm x 2cm ulcer over the 1st metatarsal head. Depth is 1cm; probes to bone. Surrounding 5cm of erythema and edema. Malodorous purulent drainage present. Palpable DP/PT pulses.
+
+LABS:
+WBC 13.5
+Glucose 342
+Cr 1.1
+ESR 95
+
+IMPRESSION/PLAN:
+Right foot osteomyelitis in a diabetic patient.
+1. Admit for IV antibiotics (Vancomycin + Zosyn).
+2. Podiatry consult for possible debridement/bone biopsy.
+3. Imaging: MRI Right Foot pending to assess extent of osteomyelitis.
+4. Diabetes: Hold oral meds. Start Basal-Bolus insulin scale.
+5. DVT Prophylaxis: SQ Heparin.
+
+Patrick Whoisthis, MD
+Pager# 54321
+
+########
+
+ADMISSION NOTE
+
+PATIENT: Brenda Bowel
+MRN: 44332211
+DATE OF ADMISSION: 01/20/3051
+TIME: 03:00 AM
+ADMITTING ATTENDING: Frank Notreal Name, MD
+HOSPITAL FLOOR/LOCATION: SURG01
+PCP: Unknown
+
+Chief Complaint/Reason for Admission: Abdominal pain
+
+History of Present Illness: Brenda Bowel is a 55 y.o. female with a history of diverticulosis who presents with 2 days of worsening LLQ abdominal pain, nausea, and two episodes of non-bloody vomiting. She reports her last bowel movement was yesterday and was "hard." She denies any history of abdominal surgeries.
+
+ED Course:
+Vitals: T 100.4 F, HR 102, BP 138/90.
+Labs: WBC 16.0 with left shift.
+Imaging: CT Abdomen/Pelvis showed sigmoid diverticulitis with a 2cm localized abscess. No free air.
+
+Review of Systems: As per HPI, otherwise negative.
+
+Physical Exam:
+Abd: Distended, bowel sounds diminished. Significant tenderness to palpation in the LLQ with voluntary guarding. No rebound.
+
+Assessment and Plan: 55 y.o. female with acute complicated diverticulitis (Hinchey Ia/Ib).
+
+#Diverticulitis
+- NPO for bowel rest.
+- IV Fluids (D5 1/2 NS at 100cc/hr).
+- IV Antibiotics: Ciprofloxacin and Metronidazole.
+- Surgery Consult: Evaluated, recommend conservative management with IV antibiotics for now. No IR drainage needed at this time due to small size of abscess.
+- Pain: IV Morphine PRN.
+
+#General Issues
+- DVT Prophylaxis: Lovenox.
+- Code Status: Full.
+
+Theodore Exemplified, MD
+Internal Medicine PGY-1
+
+########
+
+HOSPITAL MEDICINE GROUP
+Medicine Attending Admission History & Physical
+
+Patient Name: Gerald Yellow
+DOB: 02/28/3000
+MRN: 77889900
+PCP: Alice Fakename, MD
+
+Date of Admission: 03/10/3051
+Location: EXAMP02
+Attending Provider: Jessica Unreal Identity, MD
+
+Chief Complaint: Fever, jaundice
+
+History of Present Illness:
+Gerald Yellow is a 51 y.o. M with a history of gallstones (refused surgery last year) who presents with acute onset RUQ pain, fever to 103 F, and yellowing of the skin. He reports dark urine and pale stools for 2 days.
+
+ED Course:
+Vitals: T 39.4 C, HR 118, BP 105/65.
+Labs: WBC 21.0, Total Bili 6.5, Alk Phos 450, AST 180, ALT 210.
+Imaging: US RUQ showed dilated CBD (1.2 cm) with stones and gallbladder wall thickening.
+
+ASSESSMENT / PLAN:
+51 y/o M with Charcot’s Triad (Fever, Jaundice, RUQ pain) concerning for Acute Cholangitis.
+
+* Acute Cholangitis
+- NPO.
+- IV Fluids (aggressive hydration).
+- IV Antibiotics: Zosyn.
+- GI Consult: For urgent ERCP for biliary decompression.
+- Surgery Consult: For cholecystectomy once stable and cholangitis resolved.
+
+* Sepsis
+- Monitor for hypotension; likely will need ICU if BP drops further.
+- Serial CBC, LFTs.
+
+Andrew Notadoctor, MD
+Hospital Medicine Group
+p12345
+
+########
+
+NIGHT TEACH NOTE
+
+PATIENT: Sarah Stiffneck
+MRN: 11223344
+DATE OF ADMISSION: 04/05/3051
+ADMITTING INTERN: Random Exemplified, MD
+LOCATION: EXAMP07
+SERVICE: Example A
+
+REASON FOR ADMISSION: Fever and headache
+
+BRIEF HPI:
+Sarah Stiffneck is a 19 y.o. female college student who presents with 24 hours of severe headache, photophobia, and neck stiffness. She was brought by her roommate who noticed Sarah was "acting confused." She has no significant PMH.
+
+In the ED, she was febrile to 104.1 F and had a positive Brudzinski sign. CT head was negative for mass effect. Lumbar puncture was performed.
+CSF: WBC 1,200 (95% PMNs), Glucose 20, Protein 150. Gram stain showed Gram-negative diplococci.
+
+IMPRESSION AND PLAN:
+#Acute Bacterial Meningitis:
+Highly concerning for Neisseria meningitidis given Gram stain and clinical picture.
+- Antibiotics: Started on IV Vancomycin and Ceftriaxone (2g Q12H).
+- Steroids: Given 10mg Dexamethasone IV (prior to first dose of antibiotics).
+- Isolation: Droplet precautions.
+- Public Health: Notified for contact tracing at her dormitory.
+- Monitoring: Frequent neuro checks.
+
+Remainder of plan as per intern admission note.
+
+Michael Fake Sample, MD
+PGY-4, Example Department of Medicine
+
+########
+
+ADMISSION NOTE
+
+PATIENT: Victor Cough
+MRN: 99001122
+DATE OF ADMISSION: 05/12/3051
+TIME: 10:15 AM
+ADMITTING ATTENDING: Sarah Realname, MD
+HOSPITAL FLOOR/LOCATION: UNIT03
+PCP: Kevin Doctorly, MD
+
+Chief Complaint/Reason for Admission: Weight loss, night sweats, cough
+
+History of Present Illness:
+Victor Cough is a 45 y.o. M who recently immigrated from a high-prevalence TB area. He presents with 2 months of productive cough, 15 lb unintentional weight loss, and drenching night sweats. He has a history of smoking but no known lung disease.
+
+ED Course:
+CXR: Cavitary lesion in the right upper lobe.
+Sputum: Acid-fast bacilli (AFB) smear pending.
+Vitals: T 38.0 C, HR 90, BP 120/70, Sat 95% RA.
+
+Physical Exam:
+Pulm: Diminished breath sounds in RUL.
+Ext: Thin/cachectic appearing.
+
+Assessment and Plan: 45 y.o. M with RUL cavitary lesion concerning for Pulmonary Tuberculosis.
+
+#Pulmonary TB (Rule out)
+- Respiratory Isolation: Negative pressure room, N95 for all staff.
+- Sputum: Induced sputum for AFB smear x3 (at least 8 hours apart), GeneXpert, and Mycobacterial culture.
+- ID Consult: Appreciated for management guidance.
+- HIV/Hepatitis screen: Pending.
+- Nutrition: High-calorie diet.
+
+Theodore Exemplified, MD
+Internal Medicine PGY-1
+
+########
+
+HOSPITAL MEDICINE GROUP
+Medicine Attending Admission History & Physical
+
+Patient Name: Helen Heart
+DOB: 08/08/2995
+MRN: 33445566
+PCP: Ling Unknownname, MD
+
+Date of Admission: 06/20/3051
+Location: CARD01
+Attending Provider: Jessica Unreal Identity, MD
+
+Chief Complaint: Fever, fatigue
+
+History of Present Illness:
+Helen Heart is a 56 y/o F with a history of mitral valve prolapse who presents with 3 weeks of intermittent low-grade fevers, malaise, and a new "painful spot" on her finger. She had a dental cleaning 4 weeks ago without antibiotic prophylaxis.
+
+ED Course:
+Labs: WBC 12.5, ESR 80, CRP 55.
+Imaging: Bedside echo showed a 5mm mobile vegetation on the mitral valve.
+Vitals: T 100.9 F, HR 95, BP 118/74.
+
+Physical Exam:
+CV: Holosystolic murmur at the apex, radiating to axilla.
+Skin: Single tender, erythematous nodule on the tip of the right index finger (Osler node). Splinter hemorrhages noted in nail beds.
+
+ASSESSMENT / PLAN:
+56 y/o F with subacute bacterial endocarditis.
+
+* Endocarditis
+- Blood Cultures: 3 sets drawn; pending.
+- Antibiotics: Empiric IV Vancomycin and Ceftriaxone.
+- Cardiology: Consult for formal TTE/TEE.
+- ID: Consult for antibiotic optimization.
+- Surgery: Consult to evaluate for valve replacement if heart failure develops or vegetation increases in size.
+
+Andrew Notadoctor, MD
+Hospital Medicine Group
+p12345
+
+########
+
+ADMISSION H&P
+
+07/04/3051
+11:00 PM
+
+Patient: Oscar Odor
+DOB: 01/01/3000
+PCP: Unknown
+
+CHIEF COMPLAINT: Diarrhea
+
+HISTORY OF PRESENT ILLNESS:
+Oscar Odor is a 72 y.o. male who was recently treated for a sinus infection with Clindamycin (completed 5 days ago). He presents with 10+ episodes of watery, foul-smelling diarrhea today. He reports cramping abdominal pain and mild nausea. No blood in stool.
+
+ED Course:
+Vitals: T 101.5 F, HR 110, BP 100/60.
+Labs: WBC 24.0 (markedly elevated), Lactate 2.1, Cr 1.4 (baseline 0.8).
+Stool: C. diff PCR positive.
+
+PHYSICAL EXAMINATION:
+Gen: Dehydrated, dry mucous membranes.
+Abd: Diffusely tender, mild distension, no rebound or guarding.
+
+IMPRESSION/PLAN:
+Severe Clostridioides difficile infection (CDI).
+
+1. Antibiotics: Oral Vancomycin 125mg Q6H.
+2. Hydration: IV fluids (NS) 125cc/hr.
+3. Isolation: Contact Enteric precautions (Soap and water handwash).
+4. Monitor: Serial abdominal exams; monitor for toxic megacolon.
+5. Hold all anti-motility agents (Loperamide).
+6. DVT Prophylaxis: SQ Heparin.
+
+"A portion of this record may have been created with voice recognization software. Occasionally wrong word or sound-a-like substitutions may have occurred due to limitation in software recognition."
+
+Patrick Whoisthis, MD
+Pager# 54321

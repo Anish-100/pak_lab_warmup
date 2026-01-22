@@ -1,0 +1,274 @@
+NIGHT TEACH NOTE
+PATIENT: John Doe Example
+MRN: 12345678
+DATE OF ADMISSION: 09/10/3050
+ADMITTING INTERN: Random Exemplified, MD
+LOCATION: EXAMP02
+SERVICE: Example C
+REASON FOR ADMISSSION: Dyspnea and cough
+BRIEF HPI: Please refer to the intern admission note for full details; I agree with those findings and would emphasize the following:?
+John Doe Example is a 49 y.o. male with no significant PMH who presents with six days of non-productive cough and dyspnea. His symptoms started on 9/4 with sore throat, low grade fever, and mild chest pain for which he was seen by his PCP, diagnosed with costochondritis and sent home with supportive care. Over the next few days he developed progressive dyspnea with exertion and subjective fevers, which caused him to present to the ED. He has not travelled, but works at the airport as a baggage handler.
+In the ED, he was afebrile, normotensive, tachycardic, satting well on room air. Labs were significant for normal BMP, lactate 0.8, WBC 34, D-dimer 1120. He tested negative for flu and RSV. Given his dyspnea and elevated d-dimer, he had a CT PE that showed bilateral patchy opacities and GGOs c/f viral pneumonia. Given his elevated WBC count, he was treated with a 1x dose of IV ceftriaxone.
+His exam was significant for: well-appearing man, no dyspnea with speaking in complete sentences, decreased air movement at the bilateral lung bases, no wheezing. Slightly tachycardic, WWP.
+IMPRESSION AND PLAN:
+#Cough and dyspnea:
+I suspect that Mr. Example's non-productive cough and dyspnea with diffuse GGOs on chest CT are due to a viral pneumonia. Infectious Diseases was contacted and recommended sending Biofire panel, then possibly PCR for SARS-CoV-2 if Biofire is negative. He does have an elevated leukocytosis (34 w/a neutrophil predominance), which raised concern for bacterial pneumonia, for which he received CTX in the ED. Given that he is overall 
+well-appearing with no hypoxemia and symptoms/ would favor holding off on additional IV antibiotics for now.
+Remainder of plan as per intern admission note.
+----------------------------------------?
+Michael Fake Sample, MD
+PGY-4, Example Department of Medicine
+
+
+EXAMPLE ADMISSION NOTE
+ PATIENT: John Doe Example
+MRN: 12345678
+ DATE OF ADMISSION: 09/10/3050
+TIME: 12:34 AM
+ADMITTING ATTENDING: Frank Notreal Name, MD
+ HOSPITAL FLOOR/LOCATION: EXAMP02
+PCP: Alice Fakename, MD
+CODE STATUS: Full Code (Presumed)
+Chief Complaint/Reason for Admission: cough, dyspnea
+History of Present Illness: John Doe Example is a 49 y.o. male with PMH only significant for recurrent tonsiliitis who presents with cough and dyspnea for 6 days.
+He reports that he is overall healthy, and does not take any medications. He first noticed that on 9/4 he had a sore throat and some chest pain (noted to have cough, slight fever to 99.1F, satting 98%) for which he was seen by his PCP. At that time, he was found to be strep negative and treated for costochondritis with ibuprofen + tylenol. He reported he improved afterwards, and then once again started to feel worse. He denies any fever at home (although has been taking OTC meds). He developed a cough, dyspnea, subjective fever that began 6 days ago. No history of asthma or lung disease. Regarding antibiotic exposure recently, he states he last was prescribed antibiotics for tonsillitis more than 1 year ago.
+Given the persistence of his symptoms (non-productive cough, worsening dyspnea), he decided to present to the ED. He also reports that he has had some dyspnea with exertion.
+ Travel/exposure history: He works at the airport as a baggage handler. Has not travelled internationally. He last travelled in mid-August to Fakeplace to Big Beach Resort with a friend (states his friend is doing well).
+ Healthcare exposure: None outside of visit to PCP office.
+Sick contacts: No sick contacts. Lives with his mother, father, sister, and daughter (17 years old). No one else is sick in his home.
+ED Course:
+ Initial Vitals: 37.2 °C (98.9 °F) | HR (!) 101 | BP 119/79 | RR 20
+| SpO2 99 % on room air. | Weight 68.3 kg (151 lb)
+Meds and 
+Fluids: Received 1L, ceftriaxone + azithromycin.
+ Flu/RSV negative.
+ PE-CT: bilateral patchy opacities, viral pneumonia vs. atelectasis
+On arrival to the floor, the patient is satting well on room air, not dyspneic with speech. Cites his primary symptoms are cough and fatigue. He denies any other symptoms: diarrhea, nausea/vomiting, headache, dysuria.
+ Review of Systems: Pertinent positive and negative as per HPI, otherwise a full review of systems was negative.
+Past Medical/Surgical History:
+ Patient Active Problem List
+ Diagnosis
+ • Family history of Down syndrome
+ • Family history of diabetes mellitus
+ • Recurrent tonsillitis
+ • Right upper quadrant pain
+ • Depression
+ • Headache
+ • Migraine
+ • Myopia
+ • Overweight
+ • Vitamin D deficiency
+ • Costochondritis
+ • Nasopharyngitis
+ • Cough
+ Home Medications:
+(confirmed with patient/family member)
+Medications Prior to Admission
+ None
+ Allergies: No Known Allergies.
+ Family History: Reviewed.
+ Social History:
+ Reviewed. Lives with mother, father, daughter, and sister.
+ Physical Exam on admission:
+ Vitals: Tcurrent 36.6 °C (97.8 °F) | HR (!) 104 | BP 119/69 | RR 16 | SpO2 99 % | on room air
+Gen: patient sitting up in bed, not in acute distress, on room air
+HEENT: normal oropharynx
+CV: S1+S2 appreciated, normal rate, rhythm regular, no rubs/gallops/murmurs
+Pulm: CTA-B, moving air 
+in both lung fields (slightly diminished at bases), no wheezes, no rhonchi or crackles appreciated.
+ Ext: Warm and well perfused. No pitted edema appreciated on legs. No unilateral swelling.
+Neuro: alert and oriented to conversation.
+ Skin: No obvious bruising, deformation appreciated.
++Tattoos.
+DATA/RESULTS
+Labs reviewed, and significant for:
+BMP: Na 141, K 4.1, Cl 103, CO2 24, Cr 0.73, AG 14, Lactate 0.8
+WBC 34 (neutrophilic 90%), Hgb 12.5, Plt 391.
+ D-dimer: 1120
+Micro:
+ 3/13: Negative for flu A/B; negative RSV.
+Radiology:
+ CT Chest Pulmonary Angiogram 09/10/3050
+Bilateral patchy and ground glass opacities involving the lower lobes which could reflect any combination of viral pneumonia and/or atelectasis.
+ CXR: 09/10/3050
+Hazy opacities in the left lower lobe, suggestive of pneumonia.
+ EKG:
+Normal rate (86), sinus rhythm, slightly delayed R wave progression, no ST-T changes
+ Last TTE:
+none
+Assessment and Plan: 49 y.o. male who works at airport with PMH only significant for recurrent tonsillitis, who presents with cough and dyspnea for 6 days, found to have bilateral patchy and GGOs involving lower lobes concerning for viral pneumonia, undergoing work-up with biofire panel and consideration of COVID19 if other testing negative.
+ #Cough, dyspnea
+Patient with unclear exposure (works in airport as baggage handler) - high traffic area. Exam and clinical findings suggestive of viral process - no known sick contacts. He does not have any clear consolidation on exam/chest CT to suggest bacterial source. GGOs indicative of likely viral source of respiratory symptoms. In addition, he had an elevated D-dimer (no asymmetric leg swelling, CT-PE negative). Concern for viral vs. Atypical pneumonia given lack of clear consolidation.
+Dx:
+- Flu neg/RSV neg. Biofire panel pending; if negative, will test for COVID-19.
+- 
+SpO2: 99-100%
+- F/u CRP, procalcitonin
+- CXR: largely clear, hazy opacity in LLL
+- CT Chest: Bilateral patchy and ground glass opacities involving the lower lobes which
+could reflect any combination of viral pneumonia and/or atelectasis
+Tx:
+- Discontinue IV CTX, if hemodynamically unstable would re-add on broad antibiotics
+- Continue azithromycin for anti-inflammatory and potential atypical pneumonia coverage
+- Supportive tx: Tylenol, PO hydration
+- Continue droplet/contact precautions
+- Appreciate Infectious Diseases team guidance
+Hospital Bundle
+ Diet: Diet Regular
+DVT Prophylaxis: SQ LMW Heparin
+Telemetry: None
+Dispo: pending workup/resolution of problems
+CODE: Full Code (Presumed)
+CONTACT/HCP: Extended Emergency Contact Information
+Primary Emergency Contact: Doe Example,Jane
+Address: 123 Example St, Examplecity, CA 90001 United States of America
+Home Phone: 123-456-7890
+Mobile Phone: 123-456-7890
+Relation: Wife
+_____________________________
+Theodore Exemplified, MD
+Internal Medicine PGY-1
+Pager # 12345
+
+
+Example Hospital Hospitalist Admission History and Physical Exam
+6/10/2095
+1:20 PM
+Patient: Joseph Shreddedname
+DOB:
+1/5/2050
+PCP:
+Ling Unknownname, MD
+CHIEF COMPLAINT: Palpitation
+HISTORY OF PRESENT ILLNESS:
+Joseph Shreddedname is a
+45 y.o. male with a history of paroxysmal A. fib on metoprolol and flecainide presented with palpitation.
+History was taken from patient at bedside and from chart review.
+Patient had gone to golf tournament
+the whole day yesterday and had multiple drinks at least 10 drinks and went to bed yesterday 2 AM however wake up 6 AM with palpitation.
+EMS called patient was brought into the ED patient was found to be A. fib with RVR received multiple doses of IV Lopressor 20 mg, followed by IV Cardizem bolus and referred for admission.
+Patient denies any chest pain shortness of breath
+When I saw the patient patient converted to sinus rhythm confirmed with EKG
+Patient wanted to go home.
+Cardiology consult was called and discussed.
+MEDICAL & SURGICAL HX:
+Past Medical History:
+Diagnosis Date
+• Atrial fibrillation
+• OSA (obstructive sleep apnea)
+Past Surgical History:
+Procedure Laterality Date
+• KNEE ARTHROSCOPY
+FAMILY HX:
+Family History
+Problem Relation Age of Onset
+• Hearing loss Father 60
+SOCIAL HX:
+Social History
+Socioeconomic History
+• Marital status: Married/Civil Union
+Spouse name: Not on file
+• Number of children: Not on file
+• Years of education: Not on file
+• Highest education level: Not on file
+Occupational History
+• Not on file
+Tobacco Use
+• Smoking status: Never Smoker
+• Smokeless tobacco: Never Used
+Substance and Sexual Activity
+• Alcohol use: Not on file
+• Drug use: Not on file
+• Sexual activity: Not on file
+Other Topics Concern
+• Not on file
+Social History Narrative
+• Not on file
+Social Determinants of Health
+REVIEW OF SYSTEMS:
+Constitutional: Negative for 
+chills and fever.
+Respiratory: Negative for cough, choking and shortness of breath.
+Cardiovascular: Negative for chest pain,and leg swelling.
+Gastrointestinal: Negative for abdominal pain, diarrhea and nausea.
+Genitourinary: Negative for difficulty urinating and dysuria.
+Skin: Negative.
+Neurological: Negative for dizziness and headaches.
+Psychiatric/Behavioral: Negative.
+All other systems reviewed and are negative.
+PRIOR TO ADMISSION MEDICATIONS:
+Prior to Admission medications
+Medication Sig
+aspirin 81 MG EC tablet 81 mg, Oral, Daily
+famotidine (PEPCID AC) 10 MG tablet 10 mg, Oral, Nightly PRN
+flecainide (TAMBOCOR) 100 MG tablet TAKE 1 TABLET BY MOUTH TWICE A DAY
+metoprolol succinate (TOPROL-XL) 50 MG 24 hr tablet TAKE 1 TABLET BY MOUTH EVERY DAY
+PHYSICAL EXAMINATION:
+Temperature:
+[36.1 °C (97 °F)] 36.1 °C (97 °F)
+Heart Rate:
+[81-138] 88
+Respiratory Rate:
+[14-21] 17
+BP: (116-166)/(62-107) 120/72
+[97 %-99 %] 99 % (07/26 1255)
+General Appearance: Alert, cooperative, no distress, appears stated age
+HEENT: Pupil equal and reactive, mucous membrane moist, No jaundice.
+Neck: Supple, symmetrical, no carotid bruit or JVD
+Lungs/Respiratory: Clear to auscultation bilaterally, respirations unlabored
+Heart: Regular rate and rhythm, S1 and S2 normal, no murmur, rub or gallop
+Abdomen: Soft, non-tender, bowel sounds active all four quadrants,
+Extremities: No edema, cyanosis or clubbing.
+Skin: Skin color, texture, turgor normal, no rashes or lesions
+Neurologic: Patient is AA0X3, No focal neurological deficit.
+Recent lab:
+CBC-
+Lab Results
+Component Value Date
+WBC 6.42 06/10/2095
+HGB 15.7 06/10/2095
+MCV 84.2 06/10/2095
+HCT 43.8 06/10/2095
+PLT 238 06/10/2095
+BMP-
+Lab Results
+Component Value Date
+NA 140 06/10/2095
+K 4.2 06/10/2095
+CL 102 06/10/2095
+CO2 25 06/10/2095
+BUN 8 06/10/2095
+GLU 99 06/10/2095
+PHOS 1.8 
+(Abnormally L) 06/10/2095
+Estimated Creatinine Clearance: 138 mL/min (based on SCr of 0.92 mg/dL).
+LIPID PROFILE-
+Lab Results
+Component Value Date
+HDL 53 03/10/2095
+LDL 90 03/10/2095
+CHOL 166 03/10/2095
+COAGULATION PROFILE-
+Lab Results
+Component Value Date
+PT 13.2 06/10/2095
+EKG: A. fib with RVR
+No results found.
+IMPRESSION/PLAN:
+A. fib with RVR
+Plan was for cardiology evaluation
+Continue on metoprolol and monitoring telemetry.
+Continue on flecainide.
+Alcohol use
+Alcohol level was 58, no features of withdrawal.
+Denies drinking alcohol regular basis.
+Plan was for CIWA with as needed Ativan
+DVT Prophylaxis: SQ LMW Heparin
+Activity: as tolerates
+Diet: Cardiac
+Code Status: full
+Level of Care: Observation
+I placed the patient in outpatient status with observation services for further monitoring of his condition.
+"A portion of this record may have been created with voice recognization software. Occasionally wrong word or sound-a-like substitutions may have occurred due to limitation in software recognition. Read the chart carefully and recognize, using context, where substitutions have occurred."
+Patrick Whoisthis, MD
+Pager# 54321

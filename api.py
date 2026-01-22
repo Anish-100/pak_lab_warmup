@@ -1,6 +1,7 @@
 from dotenv import load_dotenv
 import errors
 from google import genai
+from google.genai import types
 from pathlib import Path
 
 import os
@@ -11,8 +12,31 @@ api_key = os.getenv("GEMINI_API_KEY")
 if not api_key:
     raise errors.APIERROR
     
+prompt = """
+      # ROLE
+You are a Clinical Documentation Expert. Your task is to generate synthetic hospital admission notes that are indistinguishable from real-world EHR (Electronic Health Record) data.
+
+# CONTEXT & BASELINE
+Use the attached 4 base documents (Theodore Exemplified, Patrick Whoisthis, Michael Fake Sample, Andrew Notadoctor) as stylistic and structural "Gold Standards." 
+This will include the varyign lengths of each document specfic to each document's style.
+
+# OBJECTIVES
+1. Create 1 synthetic document that vary across patient demographics (elderly, SNF residents, IVDU, immigrants) and clinical scenarios (Infectious Disease focus).
+2. Mirror the specific structural quirks of the 4 base MDs.
+3. Ensure to maintain 1 style per document, and then rotate the style for each different document. 
+4. The content and patient scenarios can be anything plausible and should vary naturally throughout the notes.
+Ensure the notes are similar to the examples, they should all “feel” like they were part of some larger dataset that was taken from a real hospital.
+5. Search the 500 most common scenarios faced in urban hospitals and use that as the base. Then combine it with the syntax.
+6. The length of each document should be similar to 1 given example (Around 50 to 150 lines exclduing empty lines. )
+
+
+# FORMATTING
+- Separate each note with "########".
+- Use futuristic MRNs (8 digits).
+- Include standard hospital headers (Facility name, Service, Location).
+"""
 client = genai.Client()
-print(f'STarted')
+print(f'Started')
 response = client.models.generate_content(
     model="gemini-3-flash-preview",
       contents= [
@@ -32,23 +56,33 @@ response = client.models.generate_content(
                 "mime_type": "text/plain", 
                 "file_uri": 'https://generativelanguage.googleapis.com/v1beta/files/1cbhevq1gldq'
           }},
-            
-            "I’ve attached a few de-identified doctor notes about patients getting admitted to a hospital for possible infections."
-            " Create 10 synthetic notes that mimic the writing style and formatting of these examples, but also reflect the diversity"
-            " of all kinds of patients and infections that a US urban hospital might see."
-            "The content and patient scenarios can be anything plausible and should vary naturally throughout the notes. "
-            "Ensure the notes are similar to the examples, they should all “feel” like they were part of some larger dataset that was taken from a real hospital."
-            "Common diseases dataset: https://hcup-us.ahrq.gov/reports/statbriefs/sb277-Top-Reasons-Hospital-Stays-2018.pdf "
-            "Ensure the tone is maintained."
-            "Generate the text and separate it by a row of ########"
-                ]
+          prompt
+                  ],
+      config=types.GenerateContentConfig(
+    thinking_config=types.ThinkingConfig(
+      include_thoughts=True))
     )
 
 print('Ended')
-number = 5
-with open (f'data/GEMINI RESPONSE {number}','w') as file:
-    file.write(response.text)
+number = 'Only 1 document -unique. '
+with open (f'Warmup/data/Generated Patient Notes/Attempt {number}','w') as attempt_file:
+    attempt_file.write(response.text)
     print(response.text)
+
+with open (f'Warmup/data/Generated Patient Notes/Attempt {number} Thoughts','a') as file:
+      for part in response.candidates[0].content.parts:
+            if not part.text:
+                  continue
+            if part.thought:
+                  file.write("Thought summary:\n")
+                  file.write(part.text)
+                  file.write("\n")
+            else:
+                  file.write("Answer:\n")
+                  file.write(part.text)
+                  file.write("\n")
+
+
 
 
 
