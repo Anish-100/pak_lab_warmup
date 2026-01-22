@@ -70,12 +70,12 @@ for i in range(3,11):
             include_thoughts=True))
       )
       number = 'The final attempt'
-      with open (f'Warmup/data/Generated Patient Notes/Attempt {number}','a') as attempt_file:
+      with open (f'Warmup/data/Attempt {number}','a') as attempt_file:
             attempt_file.write('BREAK!!\n')
             attempt_file.write(response.text)
             print(response.text)
 
-      with open (f'Warmup/data/Generated Patient Notes/Attempt {number} Thoughts','a') as file:
+      with open (f'Warmup/data/Attempt {number} Thoughts','a') as file:
             file.write('BREAK!!\n')
             for part in response.candidates[0].content.parts:
                   if not part.text:
@@ -92,6 +92,8 @@ for i in range(3,11):
       choice = random.choice(time_list)
       time.sleep(choice)
       print(f'Ended iteration {i}')
+
+      max_len = 0
 
 
 
